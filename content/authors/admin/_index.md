@@ -7,7 +7,7 @@ interests:
   - Hydro-climatology
   - Water resources
   - Drought monitoring
-  - and Global climate change
+  - Global climate change
 social:
   - icon: envelope
     icon_pack: fas
