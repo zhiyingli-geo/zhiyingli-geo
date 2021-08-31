@@ -1,43 +1,44 @@
 ---
 title: Zhiying Li
-role: Postdoc Research Associate in Geography
+role: Postdoc Research Associate
 avatar_filename: zhiying_profile-pic.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Hydro-climatology
+  - Water resources
+  - Drought monitoring
+  - and Global climate change
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ZhiyingLi
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=WfPjnowAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zhiyingli-geo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zhiying-li-530053154/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Dartmouth College
+    url: https://home.dartmouth.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Ph.D. in Geography
+      institution: The Ohio State University
+      year: 2021
+    - course: M.S. in Physical Geography
+      institution: University of Chinese Academy of Sciences, Beijing, China
+      year: 2017
+    - course: B.S. in Soil and Water Conservation
+      institution: Northwest A&F University, Yangling, China
+      year: 2014
+email: Zhiying.Li@Dartmouth.edu
 superuser: true
 highlight_name: false
 ---
