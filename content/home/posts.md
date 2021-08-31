@@ -6,7 +6,7 @@ weight: 60
 title: News
 subtitle: null
 content:
-  page_type: pages
+  page_type: post
   count: 5
   filters:
     author: ""
