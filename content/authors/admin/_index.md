@@ -1,7 +1,7 @@
 ---
 title: Zhiying Li
 role: Postdoc Research Associate
-avatar_filename: zhiying_profile-pic.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Hydro-climatology
