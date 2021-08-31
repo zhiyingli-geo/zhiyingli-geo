@@ -1,7 +1,7 @@
 ---
 title: Zhiying Li
 role: Postdoc Research Associate
-avatar_filename: avatar.jpg
+avatar_filename: https://geography.dartmouth.edu/sites/department_geography.prod/files/styles/profile_portrait/public/department_geography/images/zhiying_profile_pic.jpg?itok=g2U9Q9fS
 bio: ""
 interests:
   - Hydro-climatology
