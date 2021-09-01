@@ -4,6 +4,9 @@
 widget: featured
 
 # This file represents a page section.
+active: false
+
+# This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
