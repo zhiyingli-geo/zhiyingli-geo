@@ -28,7 +28,7 @@ url_video: ""
 title: Investigating spatial heterogeneity of the controls of surface water
   balance in the contiguous United States by considering anthropogenic factors
 doi: 10.1016/j.jhydrol.2021.126621
-featured: true
+featured: false
 tags: []
 projects: []
 image:
