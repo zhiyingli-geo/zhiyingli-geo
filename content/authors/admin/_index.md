@@ -33,7 +33,7 @@ education:
       institution: The Ohio State University
       year: 2021
     - course: M.S. in Physical Geography
-      institution: University of Chinese Academy of Sciences, Beijing, China
+      institution: University of Chinese Academy of Sciences
       year: 2017
     - course: B.S. in Soil and Water Conservation
       institution: Northwest A&F University, Yangling, China
