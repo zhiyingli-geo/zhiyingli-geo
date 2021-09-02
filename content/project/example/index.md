@@ -1,14 +1,15 @@
 ---
 slides: ""
 url_pdf: ""
+date: 2016-04-27T00:00:00.000Z
 summary: ""
 url_video: ""
-date: 2016-04-27T00:00:00.000Z
-external_link: ""
-url_slides: ""
 title: Hydroclimatic Variability
+featured: true
 tags:
   - Hydroclimatology
+external_link: ""
+url_slides: ""
 links:
   - icon: paper-plane
     icon_pack: fas
