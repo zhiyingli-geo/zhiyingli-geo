@@ -4,6 +4,7 @@ publication_types:
   - "2"
 authors:
   - admin
+doi: 10.1029/2021WR029738
 publication: Water Resources Research
 draft: false
 featured: false
