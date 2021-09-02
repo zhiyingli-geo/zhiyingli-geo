@@ -28,7 +28,7 @@ url_video: ""
 title: Investigating spatial heterogeneity of the controls of surface water
   balance in the contiguous United States by considering anthropogenic factors
 doi: 10.1016/j.jhydrol.2021.126621
-featured: false
+featured: true
 tags: []
 projects: []
 image:
@@ -37,7 +37,16 @@ image:
   preview_only: false
 date: 2021-09-02T02:28:56.519Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+<!--StartFragment-->
+
+{{% callout note %}} Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software. {{% /callout %}}
+
+{{% callout note %}} Create your slides in Markdown - click the *Slides* button to check out the example. {{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+<!--EndFragment-->
