@@ -21,7 +21,7 @@ links:
     icon: paper-plane
 image:
   caption: ""
-  focal_point: Smart
+  focal_point: Right
   filename: featured.jpg
   alt_text: "Relative importance (×100%) of precipitation, potential
     evapotranspiration, and other factors in 889 watersheds in the continental
