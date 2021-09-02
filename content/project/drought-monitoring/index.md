@@ -11,7 +11,7 @@ links:
     icon_pack: fas
     icon: video
 image:
-  filename: ""
+  filename: FEATURED.jpg
   focal_point: Right
   preview_only: false
 ---
