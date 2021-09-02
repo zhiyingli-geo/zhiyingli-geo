@@ -4,9 +4,9 @@ title: Investigating spatial heterogeneity of the controls of surface water
 publication_types:
   - "2"
 authors:
-  - admin
+  - **admin
   - Steven M. Quiring
-publication: "*Journal of Hydrology, 601*(2021): 126621"
+publication: "*Journal of Hydrology*, 601, 126621"
 abstract: Understanding how precipitation is partitioned into evapotranspiration
   and streamflow is important for assessing water availability. In the Budyko
   framework, this partitioning is quantified through the ω parameter. Previous
@@ -32,6 +32,7 @@ abstract: Understanding how precipitation is partitioned into evapotranspiration
   study can help to improve regional watershed management.
 draft: false
 featured: false
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0022169421006697
 image:
   filename: ""
   focal_point: Smart
