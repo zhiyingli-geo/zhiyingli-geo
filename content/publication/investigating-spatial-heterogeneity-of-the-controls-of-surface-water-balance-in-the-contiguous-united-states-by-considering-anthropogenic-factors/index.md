@@ -28,7 +28,8 @@ abstract: Understanding how precipitation is partitioned into evapotranspiration
 summary: 
 
 tags:
-- Source Themes
+- Budyko framework
+- Streamflow
 featured: false
 
 # links:
