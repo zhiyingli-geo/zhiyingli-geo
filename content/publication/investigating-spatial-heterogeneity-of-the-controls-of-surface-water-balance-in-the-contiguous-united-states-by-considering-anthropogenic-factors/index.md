@@ -1,12 +1,12 @@
 ---
 title: "Investigating spatial heterogeneity of the controls of surface water balance in the contiguous United States by considering anthropogenic factors"
 authors:
-- **admin
+- admin
 - Steven M. Quiring
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- ""
+- ""
+date: "2021-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
