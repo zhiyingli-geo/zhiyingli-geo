@@ -9,7 +9,7 @@ links:
   - url: https://vimeo.com/471441343
     name: presentation
     icon_pack: fas
-    icon: presentation
+    icon: video
 image:
   filename: ""
   focal_point: Right
