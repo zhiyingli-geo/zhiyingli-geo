@@ -1,12 +1,12 @@
 ---
-title: "An example journal article"
+title: "Investigating spatial heterogeneity of the controls of surface water balance in the contiguous United States by considering anthropogenic factors"
 authors:
-- admin
+- **admin
 - Robert Ford
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- ""
+- ""
+date: "2021-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,22 +19,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Hydrology, 601*(2021): 126621"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Understanding how precipitation is partitioned into evapotranspiration and streamflow is important for assessing water availability. In the Budyko framework, this partitioning is quantified through the ω parameter. Previous studies have modeled the physical representation of ω; however, the spatial heterogeneity of the relationship between ω and the variables that it represents has not been investigated. This study uses a geographically weighted regression model to identify spatial variations in the factors that control the water balance in 126 reference watersheds with minimal human disturbance and 765 non-reference watersheds in the continental United States. Results show that snowfall and forest coverage are important predictors of ω in the reference watersheds. Relative cumulative moisture surplus, dam storage, and developed land in riparian areas are important predictors in non-reference watersheds. Climate is a primary control of the relative importance of forest coverage. The importance of forest coverage is greater in arid watersheds than in humid watersheds. Snowfall is more important than forest coverage in the Northeast and Midwest. This study demonstrates that dam construction and urban sprawl have a significant impact in non-reference watersheds. Dam storage is the most important predictor in 21% of the non-reference watersheds, and riparian developed land is more important in 13% of the non-reference watersheds. Overall, there are statistically significant relationships between climatic, physiographic, and human-related factors and the ω parameter. The spatial variations in the relationship quantified in this study can help to improve regional watershed management.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-- Source Themes
+- 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0022169421006697
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -65,12 +65,3 @@ projects: []
 slides: []
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
