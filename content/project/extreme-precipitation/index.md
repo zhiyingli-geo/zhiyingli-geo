@@ -7,7 +7,7 @@ links:
   - url: https://www.sciencedirect.com/science/article/abs/pii/S2213305419300049
     name: Paper
     icon_pack: fas
-    icon: Paper-plane
+    icon: paper-plane
 image:
   filename: https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/2/98519/files/2020/11/Extreme-prcp.png
   focal_point: Right
