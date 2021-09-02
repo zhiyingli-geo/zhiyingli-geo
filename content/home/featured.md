@@ -5,7 +5,7 @@ headless: true
 weight: 75
 title: Publications
 subtitle: ""
-active: true
+active: false
 content:
   page_type: publication
   count: 0
