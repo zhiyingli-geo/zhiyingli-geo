@@ -1,23 +1,13 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
-# This file represents a page section.
+widget_id: " "
 headless: true
-
-# Order that this section appears on the page.
 weight: 70
-
-title: 'Recent & Upcoming Talks'
-subtitle:
-
+title: Teaching
+subtitle: null
 content:
-  # Page type to display. E.g. post, event, publication...
   page_type: event
-  # Choose how many pages you would like to display (0 = all pages)
   count: 5
-  # Filter on criteria
   filters:
     author: ""
     category: ""
@@ -26,16 +16,25 @@ content:
     exclude_future: false
     exclude_past: false
     publication_type: ""
-  # Choose how many pages you would like to offset by
   offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
   order: desc
-
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
   view: 2
 ---
+<!--StartFragment-->
+
+**Guest Lecturer**
+
+Boundary Layer Climate (G5921), The Ohio State University (Feb 2020)
+
+ 
+
+**Graduate Teaching Assistant**
+
+Solo lab instructor. Extreme Weather and Climate (G1900), The Ohio State University (Spring 2020, Fall 2019; 32 students enrolled in each session, 4 sessions taught)
+
+GTA. Climatology (G5900), The Ohio State University (Spring 2019; 34 students enrolled)
+
+GTA. Global Climate Change (G3900), The Ohio State University (Fall 2018; 69 students enrolled)
+
+<!--EndFragment-->
