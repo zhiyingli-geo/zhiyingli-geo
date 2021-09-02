@@ -1,8 +1,8 @@
 ---
 title: "Investigating spatial heterogeneity of the controls of surface water balance in the contiguous United States by considering anthropogenic factors"
 authors:
-- admin
-- Robert Ford
+- **admin
+- Steven M. Quiring
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
