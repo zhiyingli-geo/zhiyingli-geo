@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Investigating spatial heterogeneity of the controls of surface water balance in the contiguous United States by considering anthropogenic factors"
 authors:
 - admin
 - Robert Ford
