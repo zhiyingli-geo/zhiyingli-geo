@@ -9,7 +9,7 @@ links:
     icon_pack: fas
     icon: paper-plane
 image:
-  filename: https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/2/98519/files/2020/11/Extreme-prcp.png
+  filename: featured.png
   focal_point: Right
   preview_only: false
 ---
