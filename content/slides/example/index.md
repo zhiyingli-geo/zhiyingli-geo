@@ -72,9 +72,9 @@ if porridge == "blueberry":
 Make content appear incrementally
 
 ```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
+#{{%/* fragment */%}} One {{%/* /fragment */%}}
+#{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
+#{{%/* fragment */%}} Three {{%/* /fragment */%}}
 ```
 
 Press `Space` to play!
