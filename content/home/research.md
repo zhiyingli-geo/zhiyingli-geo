@@ -11,10 +11,12 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Hydroclimatology
+      tag: Hydroclimatology
+    - name: Drought
+      tag: drought monitoring
     - name: Other
-      tag: Demo
+      tag: other
 design:
   columns: "1"
   view: 2
