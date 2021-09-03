@@ -6,7 +6,9 @@
 title: Zhiying Li # Website name
 baseurl: 'https://zhiyingli-geo.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
-
+include:
+  - _redirects
+  
 ############################
 ## LANGUAGE
 ############################
