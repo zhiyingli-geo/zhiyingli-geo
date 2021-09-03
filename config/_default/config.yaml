@@ -10,7 +10,7 @@ include:
   - _redirects
 
 marketing:
-  google_analytics: "G-6J0K76YMV3"
+  google_analytics: "UA-206692138-1"
   google_tag_manager: "GTM-K8FVQJJ"
   
 ############################
