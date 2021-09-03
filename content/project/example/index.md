@@ -1,7 +1,7 @@
 ---
 slides: ""
 url_pdf: ""
-date: 2016-04-27T00:00:00.000Z
+date: 2021-09-03T00:49:51.102Z
 summary: ""
 url_video: ""
 title: Hydroclimatic Variability
