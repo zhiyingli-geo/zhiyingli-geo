@@ -44,4 +44,4 @@ highlight_name: true
 ---
 Zhiying Li is a postdoc research associate in physical geography at the Department of Geography at Dartmouth College. She is interested in investigating the impacts of climate change on water availability from local to continental scale, using modeling and multi-source observations. She has been involved with research projects in extreme precipitation, drought monitoring, and flooding inundation. Her dissertation is on "Dominant Drivers of Hydrological Change and Prediction of Future Streamflow in the Contiguous United States". Her current projects are about the role of vegetation in controlling water availability.
 
-{{< icon name="download" pack="fas" >}} Download Zhiying Li's {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Zhiying Li's {{< staticref "uploads/Zhiying Li_CV_public.pdf" "newtab" >}}CV{{< /staticref >}}.
