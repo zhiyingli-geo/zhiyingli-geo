@@ -1,6 +1,6 @@
 ---
 title: Drought Monitoring
-date: 2021-09-02T21:06:40.300Z
+date: 2021-09-03T00:49:41.190Z
 draft: false
 featured: true
 tags:
