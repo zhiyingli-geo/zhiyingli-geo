@@ -4,7 +4,7 @@ date: 2021-09-03T00:49:18.158Z
 draft: false
 featured: true
 tags:
-  - applied climatology
+  - other
 links:
   - url: https://www.sciencedirect.com/science/article/abs/pii/S0360544219320535
     name: Paper
