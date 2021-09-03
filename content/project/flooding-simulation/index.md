@@ -3,6 +3,8 @@ title: Flooding simulation
 date: 2021-09-03T00:49:02.797Z
 draft: false
 featured: true
+tags:
+  - other
 links: []
 image:
   filename: featured.jpg
