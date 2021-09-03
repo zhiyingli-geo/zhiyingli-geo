@@ -30,6 +30,10 @@ abstract: Understanding the dominant drivers of hydrological change is essential
   management.
 draft: false
 featured: false
+
+url_pdf: https://doi.org/10.1029/2021WR029738
+slides:[]
+
 image:
   filename: ""
   focal_point: Smart
