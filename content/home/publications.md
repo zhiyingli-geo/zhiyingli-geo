@@ -2,7 +2,7 @@
 widget: pages
 widget_id: " "
 headless: true
-weight: 70
+weight: 40
 title: Publications
 subtitle: ""
 content:
