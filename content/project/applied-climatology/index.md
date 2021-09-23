@@ -1,5 +1,5 @@
 ---
-title: Applied climatology
+title: Applied Climatology
 date: 2021-09-03T00:49:18.158Z
 draft: false
 featured: true
