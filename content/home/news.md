@@ -24,7 +24,7 @@ design:
 ---
 <!--StartFragment-->
 
-**Dec. 2021**: I am honored to receive **the Story Exchange “Our Women in Science Incentive Prize” ($5,000),** a grant award that recognizes five innovative female scientists working in the area of climate change mitigation and adaptation in the U.S. Check out the [media coverage](https://thestoryexchange.org/announcing-winners-women-in-science-incentive-prize/).
+**Dec. 2021**: I am honored be one of the five winners of **the Story Exchange “Our Women in Science Incentive Prize” ($5,000),** a grant award that recognizes innovative female scientists working in the area of climate change mitigation and adaptation in the U.S. Check out the [media coverage](https://thestoryexchange.org/announcing-winners-women-in-science-incentive-prize/).
 
 **Sept. 2021**: I will be joining Prof. Justin Makin’s [Climate Modeling and Impacts Group](https://jsmankin.github.io/) as a postdoc research associate at Dartmouth College!
 
