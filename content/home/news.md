@@ -24,6 +24,8 @@ design:
 ---
 <!--StartFragment-->
 
+**Dec. 2021**: I am honored to receive **the Story Exchange “Our Women in Science Incentive Prize” ($5,000)**. Check out the [media coverage](https://thestoryexchange.org/announcing-winners-women-in-science-incentive-prize/).
+
 **Sept. 2021**: I will be joining Prof. Justin Makin’s [Climate Modeling and Impacts Group](https://jsmankin.github.io/) as a postdoc research associate at Dartmouth College!
 
 **Jul. 2021**: I successfully defended my Ph.D. in Geography at the Department of Geography at The Ohio State University. My dissertation is titled “Dominant Drivers of Hydrological Change and Prediction of Future Streamflow in the Contiguous United States”. Check out the department’s [Twitter](https://twitter.com/OSUGeography/status/1414716017360576519).
