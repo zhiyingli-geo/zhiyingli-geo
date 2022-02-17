@@ -24,7 +24,7 @@ design:
 ---
 <!--StartFragment-->
 
-**Dec. 2021**: I am honored to be one of the five winners of **the Story Exchange “Our Women in Science Incentive Prize” ($5,000),** a grant award that recognizes innovative female scientists working in the area of climate change mitigation and adaptation in the U.S. Check out the [media coverage](https://thestoryexchange.org/announcing-winners-women-in-science-incentive-prize/).
+**Dec. 2021**: I am honored to be one of the five winners of **the Story Exchange “Our Women in Science Incentive Prize” ($5,000),** a grant award that recognizes innovative female scientists working in the area of climate change mitigation and adaptation in the U.S. Check out the media coverage at [Story Exchange](https://thestoryexchange.org/announcing-winners-women-in-science-incentive-prize/), [Dartmouth News](https://home.dartmouth.edu/news/2022/01/geography-researcher-wins-prize-work-water-resources), and [Dartmouth Geography Department](https://geography.dartmouth.edu/news/2021/12/zhiying-li-winner-women-science-prize).
 
 **Sept. 2021**: I will be joining Prof. Justin Makin’s [Climate Modeling and Impacts Group](https://jsmankin.github.io/) as a postdoc research associate at Dartmouth College!
 
