@@ -7,7 +7,7 @@ authors:
   - Jing Wu
   - QiuXia
   - admin
-doi: 10.1016/j.jclepro.2022.131070
+doi: ""
 publication: "*Journal of Cleaner Production*, 131070"
 abstract: As the microsubjects of transformation and upgrading, enterprises are
   conducting green innovation to help simultaneously improve economic and
@@ -26,8 +26,8 @@ abstract: As the microsubjects of transformation and upgrading, enterprises are
   evidence on green transformation for enterprises with heterogeneous
   characteristics and green innovation.
 draft: false
-featured: false
 url_pdf: https://www.sciencedirect.com/science/article/pii/S095965262200703X
+featured: false
 image:
   filename: featured
   focal_point: Smart
