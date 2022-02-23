@@ -24,6 +24,8 @@ design:
 ---
 <!--StartFragment-->
 
+**Feb. 2022**: My co-authored paper is published in ***Journal of Cleaner Production***: “Green innovation and enterprise green total factor productivity at a micro level: A perspective of technical distance”. This is an interdisciplinary study that lies in the intersection of sustanability, environmentl sciene, and economics. [Check it out](https://www.sciencedirect.com/science/article/pii/S095965262200703X)!
+
 **Dec. 2021**: I am honored to be one of the five winners of **the Story Exchange “Our Women in Science Incentive Prize” ($5,000),** a grant award that recognizes innovative female scientists working in the area of climate change mitigation and adaptation in the U.S. Check out the media coverage at [Story Exchange](https://thestoryexchange.org/announcing-winners-women-in-science-incentive-prize/), [Dartmouth News](https://home.dartmouth.edu/news/2022/01/geography-researcher-wins-prize-work-water-resources), and [Dartmouth Geography Department](https://geography.dartmouth.edu/news/2021/12/zhiying-li-winner-women-science-prize).
 
 **Sept. 2021**: I will be joining Prof. Justin Makin’s [Climate Modeling and Impacts Group](https://jsmankin.github.io/) as a postdoc research associate at Dartmouth College!
