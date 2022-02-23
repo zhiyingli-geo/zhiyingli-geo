@@ -27,6 +27,7 @@ abstract: As the microsubjects of transformation and upgrading, enterprises are
   characteristics and green innovation.
 draft: false
 featured: false
+url_pdf: https://www.sciencedirect.com/science/article/pii/S095965262200703X
 image:
   filename: featured
   focal_point: Smart
