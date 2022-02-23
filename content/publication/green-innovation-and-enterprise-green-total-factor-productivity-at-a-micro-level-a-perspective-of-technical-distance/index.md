@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Jing Wu
-  - QiuXia
+  - Qiu Xia
   - admin
 doi: ""
 publication: "*Journal of Cleaner Production*, 131070"
