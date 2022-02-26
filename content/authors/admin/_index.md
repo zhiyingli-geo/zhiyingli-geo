@@ -30,7 +30,7 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Geography
-      institution: The Ohio State University
+      institution: The Ohio State University, Columbus, OH, USA
       year: 2021
     - course: M.S. in Physical Geography
       institution: University of Chinese Academy of Sciences, Beijing, China
