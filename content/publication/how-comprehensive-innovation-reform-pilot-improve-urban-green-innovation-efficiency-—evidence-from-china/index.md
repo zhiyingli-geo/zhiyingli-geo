@@ -8,7 +8,11 @@ authors:
   - Can Zhang
   - admin
   - Qiu Xia
+doi: ""
+publication: "*Sustainability*, 14(8), 4550"
+abstract: 
 draft: false
+url_pdf: https://www.mdpi.com/2071-1050/14/8/4550
 featured: false
 image:
   filename: featured
