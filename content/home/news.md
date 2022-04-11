@@ -24,6 +24,8 @@ design:
 ---
 <!--StartFragment-->
 
+**Apr. 2022**: My co-authored paper is published in ***Sustainability***: “How Comprehensive Innovation Reform Pilot Improve Urban Green Innovation Efficiency?—Evidence from China”. This is an interdisciplinary study that lies in the intersection of sustainability, environmental science, and economics. [Check it out](https://www.mdpi.com/2071-1050/14/8/4550)!
+
 **Feb. 2022**: I gave an oral presentation at **the AAG 2022 Annual Meeting.** My presentation is about “Accounting for the climatology of drought characteristics in the contiguous United States”. Check out my [abstract](https://aag-annualmeeting.secure-platform.com/a/solicitations/19/sessiongallery/2564/application/18666).
 
 **Feb. 2022**: My co-authored paper is published in ***Journal of Cleaner Production***: “Green innovation and enterprise green total factor productivity at a micro level: A perspective of technical distance”. This is an interdisciplinary study that lies in the intersection of sustainability, environmental science, and economics. [Check it out](https://www.sciencedirect.com/science/article/pii/S095965262200703X)!
