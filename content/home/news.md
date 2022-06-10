@@ -24,9 +24,11 @@ design:
 ---
 <!--StartFragment-->
 
+**May 2022**: I was accepted to partipitate in the **[Community Earth System Model (CESM) Tutorial](https://www.cesm.ucar.edu/events/tutorials/2022/)** sponspored by the University Corporation for Atmospheric Research (UCAR) in August, 2022 in Boulder, CO. Looking forward to meeting some of you there!
+
 **Apr. 2022**: My co-authored paper is published in ***Sustainability***: “How Comprehensive Innovation Reform Pilot Improve Urban Green Innovation Efficiency?—Evidence from China”. This is an interdisciplinary study that lies in the intersection of sustainability, environmental science, and economics. [Check it out](https://www.mdpi.com/2071-1050/14/8/4550)!
 
-**Feb. 2022**: I gave an oral presentation at **the AAG 2022 Annual Meeting.** My presentation is about “Accounting for the climatology of drought characteristics in the contiguous United States”. Check out my [abstract](https://aag-annualmeeting.secure-platform.com/a/solicitations/19/sessiongallery/2564/application/18666).
+**Feb. 2022**: I gave an oral presentation at **the American Association of Geographers (AAG) 2022 Annual Meeting.** My presentation is about “Accounting for the climatology of drought characteristics in the contiguous United States”. Check out my [abstract](https://aag-annualmeeting.secure-platform.com/a/solicitations/19/sessiongallery/2564/application/18666).
 
 **Feb. 2022**: My co-authored paper is published in ***Journal of Cleaner Production***: “Green innovation and enterprise green total factor productivity at a micro level: A perspective of technical distance”. This is an interdisciplinary study that lies in the intersection of sustainability, environmental science, and economics. [Check it out](https://www.sciencedirect.com/science/article/pii/S095965262200703X)!
 
@@ -44,15 +46,15 @@ design:
 
 **Apr. 2021**: I am honored to receive **the 1st place poster presentation award ($200)** in the area of Mathematical and Physical Sciences at the [2021 Edward F. Hayes Graduate Research Forum](https://cgs.osu.edu/hayes-forum/). My presentation is about the uncertainties of estimation of potential evapotranspiration in the continental U.S. Check out my [abstract](https://kb.osu.edu/handle/1811/92606)!
 
-**Jan. 2021**: I gave a poster presentation at **the AMS 2021 Annual Meeting.** My presentation is about “Climatic, physiographic, and anthropogenic factors controlling spatial and temporal variability of water balance within the Budyko framework”.
+**Jan. 2021**: I gave a poster presentation at **the American Meteorological Society (AMS) 2021 Annual Meeting.** My presentation is about “Climatic, physiographic, and anthropogenic factors controlling spatial and temporal variability of water balance within the Budyko framework”.
 
-**Dec. 2020**: I gave a poster presentation at **the AGU 2020 Fall Meeting**. My presentation is about “Climatic, physiographic, and anthropogenic factors controlling spatial and temporal variability of water balance within the Budyko framework”.
+**Dec. 2020**: I gave a poster presentation at **the American Geophysical Union (AGU) 2020 Fall Meeting**. My presentation is about “Climatic, physiographic, and anthropogenic factors controlling spatial and temporal variability of water balance within the Budyko framework”.
 
 **Nov. 5, 2020**: I am honored to receive **the 2nd place student poster presentation award ($100)** at [the Water Management Association of Ohio Conference](https://wmao.clubexpress.com/content.aspx?page_id=22&club_id=259593&module_id=350265).
 
 **Oct. 30, 2020**: I am honored to receive **the 1st place Ph.D. student paper presentation award ($125)** at the East Lakes Division of the American Association of Geographers. My talk is about “Developing Impacts-based drought thresholds for Ohio”. Check out my [presentation](https://vimeo.com/471441343).
 
-**Oct. 24, 2020**: I am honored to receive **the AAG Annual Meeting Student Grant** for the [2021 AAG Annual Meeting](https://www2.aag.org/aagannualmeeting/). I will give an oral presentation at the hydroclimatology session. Looking forward to meeting some of you in April 2021 virtually!
+**Oct. 24, 2020**: I am honored to receive **the American Association of Geographers (AAG) Annual Meeting Student Grant** for the [2021 AAG Annual Meeting](https://www2.aag.org/aagannualmeeting/). I will give an oral presentation at the hydroclimatology session. Looking forward to meeting some of you in April 2021 virtually!
 
 **Sept. 27, 2020**: I am honored to receive **the best oral presentation award** at [the fourth Midwest Student Conference on Atmospheric Research](https://atmos.illinois.edu/mscar).
 
