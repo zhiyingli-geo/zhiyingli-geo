@@ -36,7 +36,7 @@ design:
 
 **Sept. 2021**: I will be joining Prof. Justin Makin’s [Climate Modeling and Impacts Group](https://jsmankin.github.io/) as a postdoc research associate at Dartmouth College!
 
-**Jul. 2021**: I successfully defended my Ph.D. in Geography at the Department of Geography at The Ohio State University. My dissertation is titled “Dominant Drivers of Hydrological Change and Prediction of Future Streamflow in the Contiguous United States”. Check out the department’s [Twitter](https://twitter.com/OSUGeography/status/1414716017360576519).
+**Jul. 2021**: I successfully defended my Ph.D. in Geography at the Department of Geography at The Ohio State University. My dissertation is titled “Dominant Drivers of Hydrological Change and Prediction of Future Streamflow in the Contiguous United States”. Check out my dissertation at [OhioLINK](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=osu1626262801757856)[](https://twitter.com/OSUGeography/status/1414716017360576519).
 
 **Jun. 2021**: My first-authored paper is published in the ***Journal of Hydrology***: “Investigating spatial heterogeneity of the controls of surface water balance in the contiguous United States by considering anthropogenic factors”. [Check it out](https://doi.org/10.1016/j.jhydrol.2021.126621)!
 
