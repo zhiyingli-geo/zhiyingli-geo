@@ -24,7 +24,7 @@ design:
 ---
 <!--StartFragment-->
 
-**May 2022**: I was accepted to partipitate in the **[Community Earth System Model (CESM) Tutorial](https://www.cesm.ucar.edu/events/tutorials/2022/)** sponspored by the University Corporation for Atmospheric Research (UCAR) in August, 2022 in Boulder, CO. Looking forward to meeting some of you there!
+**May 2022**: I was accepted to participate in the **[Community Earth System Model (CESM) Tutorial](https://www.cesm.ucar.edu/events/tutorials/2022/)** sponsored by the University Corporation for Atmospheric Research (UCAR) in August, 2022 in Boulder, CO. Looking forward to meeting some of you there!
 
 **Apr. 2022**: My co-authored paper is published in ***Sustainability***: “How Comprehensive Innovation Reform Pilot Improve Urban Green Innovation Efficiency?—Evidence from China”. This is an interdisciplinary study that lies at the intersection of sustainability, environmental science, and economics. [Check it out](https://www.mdpi.com/2071-1050/14/8/4550)!
 
