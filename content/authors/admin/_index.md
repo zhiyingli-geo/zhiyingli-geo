@@ -36,7 +36,7 @@ education:
       institution: University of Chinese Academy of Sciences, Beijing, China
       year: 2017
     - course: B.S. in Soil and Water Conservation
-      institution: Northwest A&F University, Yangling, China
+      institution: Northwest A&F University, Yangling, Shaanxi, China
       year: 2014
 email: Zhiying.Li@Dartmouth.edu
 superuser: true
