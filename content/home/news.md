@@ -24,7 +24,9 @@ design:
 ---
 <!--StartFragment-->
 
-**May 2022**: I was accepted to participate in the **[Community Earth System Model (CESM) Tutorial](https://www.cesm.ucar.edu/events/tutorials/2022/)** sponsored by the University Corporation for Atmospheric Research (UCAR) in August, 2022 in Boulder, CO. Looking forward to meeting some of you there!
+**Aug. 2022**: I am honored to receive the 2021 Chinese Government Award for Outstanding Self-financed Students Abroad **($6,000)** as a recognition of my doctoral research.
+
+**May 2022**: I am honored to receive travel funds **(~$1,000)** to participate in the **[Community Earth System Model (CESM) Tutorial](https://www.cesm.ucar.edu/events/tutorials/2022/)** sponsored by the University Corporation for Atmospheric Research (UCAR) in August 2022 in Boulder, CO. 
 
 **Apr. 2022**: My co-authored paper is published in ***Sustainability***: “How Comprehensive Innovation Reform Pilot Improve Urban Green Innovation Efficiency?—Evidence from China”. This is an interdisciplinary study that lies at the intersection of sustainability, environmental science, and economics. [Check it out](https://www.mdpi.com/2071-1050/14/8/4550)!
 
