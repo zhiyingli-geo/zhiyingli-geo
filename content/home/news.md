@@ -62,6 +62,8 @@ design:
 
 **Jun. 1, 2020**: I am honored to get my doctoral dissertation funded through **the National Science Foundation Doctoral Dissertation Research Improvement Award ($17,023; with PI Steven Quiring)**. Check out my [public abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2003248&HistoricalAwards=false).
 
+**Jan. 2020**: I am honored to receive the **Matthew J. Parker Travel Grant (~$1,400)** to attend the American Meteorological Society (AMS) 2020 Annual Meeting in Boston, MA.
+
 **Nov. 22, 2019**: I am honored to receive the **Presidential Fellowship ($32,100)**, the most prestigious award that the Graduate School bestows at OSU. Check out the [College News](https://artsandsciences.osu.edu/news/11-grad-students-named-presidential-fellows).
 
 **Oct. 31, 2019**: I am honored to receive the **Toracinta scholarship ($2,000)**. Check out the [News](https://byrd.osu.edu/2019-toracinta-scholarship-recipient).
