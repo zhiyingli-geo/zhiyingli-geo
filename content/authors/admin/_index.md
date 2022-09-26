@@ -1,6 +1,6 @@
 ---
 title: Zhiying Li
-role: Postdoc Research Associate
+role: Postdoctoral Research Associate
 avatar_filename: avatar.jpg
 bio: ""
 interests:
