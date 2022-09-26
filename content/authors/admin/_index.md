@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Hydro-climatology
-  - Water resources
   - Drought monitoring
+  - Watershed hydrology
   - Global climate change
 social:
   - icon: envelope
