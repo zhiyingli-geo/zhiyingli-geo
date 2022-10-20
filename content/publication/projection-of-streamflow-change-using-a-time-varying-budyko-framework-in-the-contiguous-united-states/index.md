@@ -29,6 +29,9 @@ abstract: Predicting future streamflow change is essential for water resources
   strategies.
 draft: false
 featured: false
+tags:
+  - Budyko framework
+  - Streamflow
 image:
   filename: featured
   focal_point: Smart
