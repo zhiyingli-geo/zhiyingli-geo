@@ -19,6 +19,10 @@ links:
     name: Paper2
     icon_pack: fas
     icon: paper-plane
+  - url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022WR033016
+    name: Paper3
+    icon_pack: fas
+    icon: paper-plane
 image:
   caption: ""
   focal_point: BOTTOM
