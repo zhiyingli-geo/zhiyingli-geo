@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - Steven M. Quiring
-publication: '*Water Resources Research",'
+publication: "*Water Resources Research*, e2022WR033016"
 abstract: Predicting future streamflow change is essential for water resources
   management and understanding the impacts of projected climate and land use
   changes on water availability. The Budyko framework is a useful and
