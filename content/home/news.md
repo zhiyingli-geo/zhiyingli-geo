@@ -24,7 +24,7 @@ design:
 ---
 <!--StartFragment-->
 
-**Oct. 2022**: My first-authored paper is published in the ***Water Resources Research***: “Projection of Streamflow Change Using a Time-Varying Budyko Framework in the Contiguous U.S”. [Check it out](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033016)!
+**Oct. 2022**: My first-authored paper is published in ***Water Resources Research***: “Projection of Streamflow Change Using a Time-Varying Budyko Framework in the Contiguous U.S”. [Check it out](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033016)!
 
 **Sept. 2022**: I am honored to receive the Excellent Oral Presentation Award at the **[2022 International Forum on Big Data for Sustainable Development Goals](https://fbas2022.scimeeting.cn/en/web/index/14428)**. My presentation is about "Predicting Streamflow Change under Climate and Land use Changes in the Contiguous U.S.".
 
@@ -44,9 +44,9 @@ design:
 
 **Jul. 2021**: I successfully defended my Ph.D. in Geography at the Department of Geography at The Ohio State University. My dissertation is titled “Dominant Drivers of Hydrological Change and Prediction of Future Streamflow in the Contiguous United States”. Check out my dissertation at [OhioLINK](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=osu1626262801757856)[](https://twitter.com/OSUGeography/status/1414716017360576519).
 
-**Jun. 2021**: My first-authored paper is published in the ***Journal of Hydrology***: “Investigating spatial heterogeneity of the controls of surface water balance in the contiguous United States by considering anthropogenic factors”. [Check it out](https://doi.org/10.1016/j.jhydrol.2021.126621)!
+**Jun. 2021**: My first-authored paper is published in ***Journal of Hydrology***: “Investigating spatial heterogeneity of the controls of surface water balance in the contiguous United States by considering anthropogenic factors”. [Check it out](https://doi.org/10.1016/j.jhydrol.2021.126621)!
 
-**May 2021**: My first-authored paper is published in the ***Water Resources Research***: “Identifying the Dominant Drivers of Hydrological Change in the Contiguous United States”. [Check it out](https://doi.org/10.1029/2021WR029738)!
+**May 2021**: My first-authored paper is published in ***Water Resources Research***: “Identifying the Dominant Drivers of Hydrological Change in the Contiguous United States”. [Check it out](https://doi.org/10.1029/2021WR029738)!
 
 **May 2021**: I am honored to receive **the E. Willard & Ruby S. Miller Fellowship ($4,000),** the highest recognition the Department of Geography at OSU is giving to Ph.D. students.
 
