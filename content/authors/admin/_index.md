@@ -4,7 +4,7 @@ role: Postdoctoral Research Associate
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Hydro-climatology
+  - Hydroclimatology
   - Drought monitoring
   - Watershed hydrology
   - Global climate change
