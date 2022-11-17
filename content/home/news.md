@@ -40,7 +40,7 @@ design:
 
 **Dec. 2021**: I am honored to be one of the five winners of **the Story Exchange “Our Women in Science Incentive Prize” ($5,000),** a grant award that recognizes innovative female scientists working in the area of climate change mitigation and adaptation in the U.S. Check out the media coverage at [Story Exchange](https://thestoryexchange.org/announcing-winners-women-in-science-incentive-prize/), [Dartmouth News](https://home.dartmouth.edu/news/2022/01/geography-researcher-wins-prize-work-water-resources), and [Dartmouth Geography Department](https://geography.dartmouth.edu/news/2021/12/zhiying-li-winner-women-science-prize).
 
-**Sept. 2021**: I will be joining Prof. Justin Makin’s [Climate Modeling and Impacts Group](https://jsmankin.github.io/) as a postdoc research associate at Dartmouth College!
+**Sept. 2021**: I will be joining Prof. Justin Mankin’s [Climate Modeling and Impacts Group](https://jsmankin.github.io/) as a postdoc research associate at Dartmouth College!
 
 **Jul. 2021**: I successfully defended my Ph.D. in Geography at the Department of Geography at The Ohio State University. My dissertation is titled “Dominant Drivers of Hydrological Change and Prediction of Future Streamflow in the Contiguous United States”. Check out my dissertation at [OhioLINK](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=osu1626262801757856)[](https://twitter.com/OSUGeography/status/1414716017360576519).
 
