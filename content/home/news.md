@@ -24,6 +24,8 @@ design:
 ---
 <!--StartFragment-->
 
+**Dec. 2022**: I gave an oral presentation at **the American Geophysical Union (AGU) 2022 Annual Meeting** in Chicago, IL. My presentation is about “Static Drought Assessment in a Nonstationary Climate”. 
+
 **Oct. 2022**: My first-authored paper is published in ***Water Resources Research***: “Projection of Streamflow Change Using a Time-Varying Budyko Framework in the Contiguous U.S”. [Check it out](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033016)!
 
 **Sept. 2022**: I am honored to receive the Excellent Oral Presentation Award at the **[2022 International Forum on Big Data for Sustainable Development Goals](https://fbas2022.scimeeting.cn/en/web/index/14428)**. My presentation is about "Predicting Streamflow Change under Climate and Land use Changes in the Contiguous U.S.".
