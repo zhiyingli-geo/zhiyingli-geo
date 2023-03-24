@@ -24,6 +24,8 @@ design:
 ---
 <!--StartFragment-->
 
+**Mar. 2023**: I gave a virtual oral presentation at **the American Association of Geographers (AAG) 2023 Annual Meeting**. 
+
 **Dec. 2022**: I gave an oral presentation at **the American Geophysical Union (AGU) 2022 Annual Meeting** in Chicago, IL. My presentation is about “Static Drought Assessment in a Nonstationary Climate”. 
 
 **Oct. 2022**: My first-authored paper is published in ***Water Resources Research***: “Projection of Streamflow Change Using a Time-Varying Budyko Framework in the Contiguous U.S”. [Check it out](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033016)!
