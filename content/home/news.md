@@ -24,6 +24,8 @@ design:
 ---
 <!--StartFragment-->
 
+**Apr. 2023**: My co-first-authored paper is published in ***Journal of Hydrometeorology***: “Developing Impacts-Based Drought Thresholds for Ohio”. [Check it out](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-22-0054.1/JHM-D-22-0054.1.xml)!
+
 **Mar. 2023**: I gave a virtual oral presentation at **the American Association of Geographers (AAG) 2023 Annual Meeting**. 
 
 **Dec. 2022**: I gave an oral presentation at **the American Geophysical Union (AGU) 2022 Annual Meeting** in Chicago, IL. My presentation is about “Static Drought Assessment in a Nonstationary Climate”. 
