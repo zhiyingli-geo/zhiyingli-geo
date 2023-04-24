@@ -11,7 +11,7 @@ links:
     icon_pack: fas
     icon: paper-plane
 image:
-  filename: fig.-4-copy.jpg
+  filename: feature.jpg
   focal_point: TOP
   preview_only: false
 ---
