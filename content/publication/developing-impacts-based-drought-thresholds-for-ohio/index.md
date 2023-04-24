@@ -1,7 +1,12 @@
 ---
 title: Developing Impacts-Based Drought Thresholds for Ohio
 publication_types:
-  - "0"
+  - "2"
+authors:
+  - Ning Zhang
+  - admin
+  - Steven M. Quiring
+publication: "*Journal of Hydrometeorology*"
 abstract: "Drought monitoring is critical for managing agriculture and water
   resources and for triggering state emergency response plans and hazard
   mitigation activities. Fixed thresholds serve as guidelines for the United
@@ -24,6 +29,10 @@ abstract: "Drought monitoring is critical for managing agriculture and water
   representative depictions of conditions and improve drought monitoring."
 draft: false
 featured: false
+
+url_pdf: https://doi.org/10.1175/JHM-D-22-0054.1
+tags:
+  - Drought monitoring
 image:
   filename: featured
   focal_point: Smart
