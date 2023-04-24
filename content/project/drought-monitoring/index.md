@@ -9,7 +9,7 @@ links:
   - url: https://doi.org/10.1175/JHM-D-22-0054.1
     name: Paper
     icon_pack: fas
-    icon: video
+    icon: paper-plane
 image:
   filename: fig.-4-copy.jpg
   focal_point: TOP
