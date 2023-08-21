@@ -5,7 +5,7 @@
 
 title: Zhiying Li # Website name
 # baseurl: 'www.zhiyingli-geo.com' # Website URL
-baseurl: 'https://zhiyingli-geo.github.io/zhiyingli-geo.github.io/tree/master/content'
+baseurl: 'https://zhiyingli-geo.github.io'
 # repository: "zhiyingli-geo/zhiyingli-geo.github.io"
 copyright: '' # Footer text, e.g. '© {year} Me'
 include:
