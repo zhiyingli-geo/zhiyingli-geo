@@ -2,7 +2,7 @@
 title: Zhiying Li
 role: Assistant Professor
 avatar_filename: avatar.jpg
-bio: CV
+bio: ""
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,6 +19,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zhiying-li-530053154/
+  - display:
+      header: false
+    icon_pack: ai
+    icon: cv
+    link: uploads/Zhiying Li_CV_public.pdf
 organizations:
   - name: O’Neill School of Public and Environmental Affairs
     url: https://oneill.indiana.edu/index.html
