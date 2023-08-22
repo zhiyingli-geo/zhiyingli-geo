@@ -3,7 +3,7 @@ title: Zhiying Li
 role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: ""
-interests:
+Research interests:
   - Hydroclimatology
   - Drought monitoring
   - Watershed hydrology
@@ -27,8 +27,9 @@ social:
 organizations:
   - name: Indiana University Bloomington
     url: https://bloomington.iu.edu/index.html
-education:
-  courses: []
+# education:
+#  courses: []
+
 email: zl68@iu.edu
 superuser: true
 highlight_name: true
