@@ -18,7 +18,7 @@ content:
     - name: Other
       tag: other
 design:
-  columns: "1"
+  columns: "2"
   view: 1
   flip_alt_rows: false
 ---
