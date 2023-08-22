@@ -18,7 +18,7 @@ content:
     - name: Other
       tag: other
 design:
-  columns: "2"
-  view: 1
+  columns: "1"
+  view: showcase
   flip_alt_rows: false
 ---
