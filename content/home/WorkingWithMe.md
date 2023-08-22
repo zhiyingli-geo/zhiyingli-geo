@@ -2,7 +2,7 @@
 widget: pages
 widget_id: " "
 headless: true
-weight: 20
+weight: 60
 title: Working with me
 subtitle: null
 content:
