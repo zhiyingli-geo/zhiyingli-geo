@@ -1,7 +1,7 @@
 ---
 title: Zhiying Li
-role: Postdoctoral Research Associate
-avatar_filename: avatar.jpg
+role: Assistant Professor
+avatar_filename: da7ff805-1892-427c-90f8-fb1cf7a8f909.jpeg
 bio: ""
 interests:
   - Hydroclimatology
@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zhiying-li-530053154/
 organizations:
-  - name: Dartmouth College
-    url: https://home.dartmouth.edu/
+  - name: Indiana University Bloomington
+    url: https://bloomington.iu.edu/index.html
 education:
   courses:
     - course: Ph.D. in Geography
@@ -38,7 +38,7 @@ education:
     - course: B.S. in Soil and Water Conservation
       institution: Northwest A&F University, Yangling, Shaanxi, China
       year: 2014
-email: Zhiying.Li@Dartmouth.edu
+email: zl68@iu.edu
 superuser: true
 highlight_name: true
 ---
