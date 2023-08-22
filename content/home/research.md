@@ -11,8 +11,8 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Hydroclimatology
-      tag: Hydroclimatology
+    - name: WaterAvailability
+      tag: WaterAvailability
     - name: Drought
       tag: drought monitoring
     - name: Other
