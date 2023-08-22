@@ -3,7 +3,7 @@ title: Zhiying Li
 role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: ""
-Research interests:
+interests:
   - Hydroclimatology
   - Drought monitoring
   - Watershed hydrology
