@@ -20,17 +20,17 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: Zhiying.Li@dartmouth.edu
+email: zl68@iu.edu
 address:
-  street: 012 Fairchild
-  city: Hanover
-  region: NH
-  postcode: '03755'
+  street: 702 N. Walnut Grove Ave, Room 418, MSB-II
+  city: Bloomington
+  region: IN
+  postcode: '47405'
   country: United States
   country_code: US
 coordinates:
-  latitude: '43.7060'
-  longitude: '-72.2884'
+  latitude: '39.17'
+  longitude: '-86.52'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
