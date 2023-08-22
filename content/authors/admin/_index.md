@@ -2,7 +2,7 @@
 title: Zhiying Li
 role: Assistant Professor
 avatar_filename: avatar.jpg
-bio: ""
+bio: CV
 social:
   - icon: envelope
     icon_pack: fas
