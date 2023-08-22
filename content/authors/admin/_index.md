@@ -42,6 +42,8 @@ email: zl68@iu.edu
 superuser: true
 highlight_name: true
 ---
-Zhiying Li is a postdoctoral research associate at the Climate Modeling & Impacts Group (CMIG) at the Department of Geography at Dartmouth College. She is a broadly trained physical geographer with a specialization in hydroclimatology. Her work centers on fundamental and applied questions about how climate variability and human intervention are altering the water cycle, including hydroclimatic extremes and water availability. Past research includes investigating drivers of streamflow change, predicting future streamflow patterns, quantifying changes in extreme precipitation, machine learning applications in climatology, etc. She is currently working on assessing the ability of static drought monitoring in a nonstationary climate.
+Welcome to the Hydroclimatology Group at Indiana University Bloomington! We are interested in fundamental and applied questions in the interrelations among climate, water, and people. Our group seeks to provide a comprehensive understanding of variability, drivers, and impacts of two representations of changes in the water cycle in a warming world: (1) hydroclimatic extremes such as drought and flooding, and (2) water availability. We use a wide range approaches including process-based hydrologic models, hydrologic theory, fully coupled Earth System Models, spatiotemporal statistical modeling, machine learning, big data, GIS, and remote sensing. The overarching goal of our research is to inform vital strategies for managing compound and cascading risks posed by climate change and fostering resilient responses.
+
+
 
 {{< icon name="download" pack="fas" >}} Download Zhiying Li's {{< staticref "uploads/Zhiying Li_CV_public.pdf" "newtab" >}}CV{{< /staticref >}}.
