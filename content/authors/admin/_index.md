@@ -1,7 +1,7 @@
 ---
 title: Zhiying Li
 role: Assistant Professor
-avatar_filename: da7ff805-1892-427c-90f8-fb1cf7a8f909.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Hydroclimatology
