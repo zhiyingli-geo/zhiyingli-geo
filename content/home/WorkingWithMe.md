@@ -32,7 +32,6 @@ Feel free to email the PI, Zhiying Li (zl68@iu.edu), if you have ideas/projects 
 
 **Ph.D. students**:
 
-
 I am eager to work with Ph.D. students. I am looking for 1 motivated Ph.D. student for Fall 2024. I especially look for students who are interested in addressing interdisciplinary research questions using analytical and quantitative skills (e.g., Earth System Models, hydrologic models, and geospatial analysis) to inform climate change decision making. Details about the Ph.D. program in Environmental Science and admission requirements can be found [here](https://oneill.indiana.edu/doctoral/degrees/environmental-science.html). Funding is usually through fellowships, research and/or teaching assistantship. 
 
 Applications open September 1 and end on January 1. The Ph.D. program starts in the Fall; there is no admission for the Spring semester. In other words, if you want to start your PhD in Fall 2024 (late August), you will need to apply by Dec of the year before (2023).
@@ -42,7 +41,6 @@ You are welcome to reach out to me if you would like to apply. In your email, pl
 
 
 **Master students**:
-
 
 I am looking forward to working with master students in Environmental Science as research assistants starting Spring 2024 or Fall 2024. Joint degree Master programs are also offered through O’Neill. If interested, please send me an email with your CV, a brief summary of your research experiences, and TOEFL score if applicable as a non-native English speaker. Details about the Master programs can be found [here](https://oneill.indiana.edu/masters/degrees-certificates/environmental-science/index.html).
 
@@ -56,13 +54,11 @@ Application deadline:
 
 **Undergraduate students (IUB students only)**:
 
-
 Undergrad researchers are welcome in my group. Your research could serve as a senior thesis project or provide valuable experience for you, especially if you are considering pursuing graduate studies. If you are a current IUB student, and interested in watershed hydrology, water resources, climate modeling, and climate change, please contact me for potential opportunities. The [IUB Undergraduate Research office](https://undergradresearch.indiana.edu/programs-funding/index.html) also provides many great opportunities. 
 
 
 
 **Visiting Scholar**:
-
 
 I welcome motivated visiting students/scholars to join my team. While I am unable to provide funding to sponsor visitors, I am more than happy to host you if you can secure funding from your own institutions or other sources. I am able to provide subsidies to help with compensation.
 
