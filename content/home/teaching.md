@@ -24,6 +24,10 @@ design:
 ---
 <!--StartFragment-->
 
+**Instructor**
+
+Introduction to Environmental Science (E272), O'Neill School, Indiana University Bloomington (Spring 2024; upcoming)
+
 **Guest Lecturer**
 
 Boundary Layer Climate (G5921), The Ohio State University (Feb 2020)
@@ -32,10 +36,10 @@ Boundary Layer Climate (G5921), The Ohio State University (Feb 2020)
 
 **Graduate Teaching Assistant**
 
-Solo lab instructor. Extreme Weather and Climate (G1900), The Ohio State University (Spring 2020, Fall 2019; 32 students enrolled in each session, 4 sessions taught)
+Extreme Weather and Climate (G1900), The Ohio State University (Spring 2020, Fall 2019; 32 students enrolled in each session, 4 sessions taught)
 
-GTA. Climatology (G5900), The Ohio State University (Spring 2019; 34 students enrolled)
+Climatology (G5900), The Ohio State University (Spring 2019; 34 students enrolled)
 
-GTA. Global Climate Change (G3900), The Ohio State University (Fall 2018; 69 students enrolled)
+Global Climate Change (G3900), The Ohio State University (Fall 2018; 69 students enrolled)
 
 <!--EndFragment-->
