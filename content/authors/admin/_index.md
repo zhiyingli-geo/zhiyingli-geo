@@ -28,16 +28,7 @@ organizations:
   - name: Indiana University Bloomington
     url: https://bloomington.iu.edu/index.html
 education:
-  courses:
-    - course: Ph.D. in Geography
-      institution: The Ohio State University, Columbus, OH, USA
-      year: 2021
-    - course: M.S. in Physical Geography
-      institution: University of Chinese Academy of Sciences, Beijing, China
-      year: 2017
-    - course: B.S. in Soil and Water Conservation
-      institution: Northwest A&F University, Yangling, Shaanxi, China
-      year: 2014
+  courses: []
 email: zl68@iu.edu
 superuser: true
 highlight_name: true
