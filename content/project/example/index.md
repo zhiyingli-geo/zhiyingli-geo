@@ -7,7 +7,7 @@ url_video: ""
 title: Water Availability
 featured: true
 tags:
-  - Hydroclimatology
+  - WaterAvailability
 external_link: ""
 url_slides: ""
 links:
