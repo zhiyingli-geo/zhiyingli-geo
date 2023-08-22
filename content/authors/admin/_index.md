@@ -20,6 +20,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zhiying-li-530053154/
 organizations:
+  - name: O’Neill School of Public and Environmental Affairs
+    url: https://oneill.indiana.edu/index.html
   - name: Indiana University Bloomington
     url: https://bloomington.iu.edu/index.html
 email: zl68@iu.edu
