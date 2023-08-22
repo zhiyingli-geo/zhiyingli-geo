@@ -13,7 +13,7 @@ include:
 
 marketing:
   google_analytics: "UA-206692138-1"
-  google_tag_manager: "G-0XZBNKKE6Z" # GTM-K8FVQJJ
+#  google_tag_manager: "G-0XZBNKKE6Z" # GTM-K8FVQJJ
   
 ############################
 ## LANGUAGE
