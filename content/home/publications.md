@@ -7,7 +7,7 @@ title: Publications
 subtitle: ""
 content:
   page_type: publication
-  count: 5
+  count: 100
   offset: 0
   order: desc
   filters:
@@ -20,6 +20,3 @@ design:
   view: 4
   columns: "1"
 ---
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
