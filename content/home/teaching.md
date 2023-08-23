@@ -28,11 +28,11 @@ design:
 
 Introduction to Environmental Science (E272), O'Neill School, Indiana University Bloomington (Spring 2024; upcoming)
 
+
+
 **Guest Lecturer**
 
 Boundary Layer Climate (G5921), The Ohio State University (Feb 2020)
-
- 
 
 **Graduate Teaching Assistant**
 
