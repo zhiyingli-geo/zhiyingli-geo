@@ -30,11 +30,11 @@ Feel free to email the PI, Zhiying Li (zl68@iu.edu), if you have ideas/projects 
 
 **Ph.D. students**:
 
-I am eager to work with Ph.D. students. I am looking for 1 motivated Ph.D. student for Fall 2024. I especially look for students who are interested in addressing interdisciplinary research questions in hydroclimatology using analytical and quantitative skills (e.g., Earth System Models, hydrologic models, and geospatial analysis) to inform climate change decision making. Details about the Ph.D. program in Environmental Science and admission requirements can be found [here](https://oneill.indiana.edu/doctoral/degrees/environmental-science.html). Funding is usually through fellowships, research and/or teaching assistantship. 
+I am eager to work with Ph.D. students. I am looking for 1 motivated Ph.D. student for Fall 2024. I especially look for students who are interested in addressing interdisciplinary research questions in hydroclimatology using analytical and quantitative skills (e.g., Earth System Models, hydrologic models, and geospatial analysis) to inform climate change decision making. Details about the Ph.D. program in Environmental Science and admission requirements can be found [here](https://oneill.indiana.edu/doctoral/degrees/environmental-science.html). Funding is usually through fellowships, research and/or teaching assistantship. A pdf version of the position description can be found [here](<uploads/Ph.D. positions_ZhiyingLi_IUB.pdf>). 
 
 Applications open September 1 and end on January 1. The Ph.D. program starts in the Fall; there is no admission for the Spring semester. In other words, if you want to start your PhD in Fall 2024 (late August), you will need to apply by Dec of the year before (2023).
 
-You are welcome to reach out to me if you would like to apply. In your email, please briefly state your research background related to climate and hydrology, how your research interests align with mine, your quantitative and programming skills, CV, and TOEFL score if applicable as a non-native English speaker.
+You are welcome to reach out to me if you would like to apply. In your email, please briefly state your research background related to climate and hydrology, how your research interests align with mine, your quantitative and programming skills, CV, and TOEFL score if applicable as a non-native English speaker. 
 
 **Master students (IUB students at O’Neill only)**:
 
