@@ -36,19 +36,13 @@ Applications open September 1 and end on January 1. The Ph.D. program starts in 
 
 You are welcome to reach out to me if you would like to apply. In your email, please briefly state your research background related to climate and hydrology, how your research interests align with mine, your quantitative and programming skills, CV, and TOEFL score if applicable as a non-native English speaker.
 
-**Master students**:
+**Master students (IUB students at O’Neill only)**:
 
-I am looking forward to working with master students in Environmental Science as research assistants starting Spring 2024 or Fall 2024. Joint degree Master programs are also offered through O’Neill. If interested, please send me an email with your CV, a brief summary of your research experiences, and TOEFL score if applicable as a non-native English speaker. Details about the Master programs can be found [here](https://oneill.indiana.edu/masters/degrees-certificates/environmental-science/index.html).
-
-Application deadline:
-
-* Spring term: December 1 for domestic students and October 1 for international students. Priority deadline is November 15. 
-* Fall term: June 1 for domestic students and January 15 for international students. Priority deadline is January 15. 
-* Please apply by priority date to be considered for O'Neill Fellowships
+I am looking forward to working with master students in Environmental Science as research assistants starting Spring 2024 or Fall 2024. If interested, please send me an email with your CV, a brief summary of your research experiences, and TOEFL score if applicable as a non-native English speaker. Potential projects include characterizing extreme precipitation using climate models and satellite observations, uncertainty in potential evapotranspiration estimation, and abrupt shifts between drought and flood events.
 
 **Undergraduate students (IUB students only)**:
 
-Undergrad researchers are welcome in my group. Your research could serve as a senior thesis project or provide valuable experience for you, especially if you are considering pursuing graduate studies. If you are a current IUB student, and interested in watershed hydrology, water resources, climate modeling, and climate change, please contact me for potential opportunities. The [IUB Undergraduate Research office](https://undergradresearch.indiana.edu/programs-funding/index.html) also provides many great opportunities. 
+Undergrad researchers are welcome in my group. Your research could serve as a senior thesis project or provide valuable experience for you, especially if you are considering pursuing graduate studies. If you are a current IUB student, and interested in watershed hydrology, water resources, climate modeling, and climate change, please contact me for potential opportunities. The [IUB Undergraduate Research office](https://undergradresearch.indiana.edu/programs-funding/index.html) also provides many great opportunities. I also recommend you keep an eye on the [Sustainability Scholars Program](https://environment.indiana.edu/programs/scholars/index.html).
 
 **Visiting Scholar**:
 
