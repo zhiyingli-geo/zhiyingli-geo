@@ -24,6 +24,10 @@ design:
 ---
 <!--StartFragment-->
 
+**A﻿ug. 2023:** I participated in the **ForceSMIP Hackathon** in Boulder, CO. The hackathon aims to stimulate participation in ForceSMIP (see [About](https://sites.google.com/ethz.ch/forcesmip/about?authuser=0)), especially among early-career researchers. 
+
+**A﻿ug. 2023:** I am honored to be selected as one of the 15 geographers participating in the inaugural **"Elevate the Discipline"** program by the American Association of Geographers (AAG), focused on the theme of "Climate and Society" and based in Washington D.C. The program trains scientists to leverage the media and other public channels as voices for public policies. Check out the [cohort](https://www.aag.org/program/2023-climate-change-society-cohort/)!  
+
 **A﻿ug. 2023:** I join the O'Neill School of Public and Environmental Affairs at the Indiana University Bloomington as a **tenure-track Assistant Professor**! I will look for future grad students. Feel free to reach out briefly outlining your research interests and background.
 
 **Apr. 2023**: My co-first-authored paper is published in ***Journal of Hydrometeorology***: “Developing Impacts-Based Drought Thresholds for Ohio”. [Check it out](https://journals.ametsoc.org/view/journals/hydr/aop/JHM-D-22-0054.1/JHM-D-22-0054.1.xml)!
