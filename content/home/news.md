@@ -24,7 +24,7 @@ design:
 ---
 <!--StartFragment-->
 
-**A﻿ug. 2023:** I participated in the **ForceSMIP Hackathon** in Boulder, CO. The hackathon aims to stimulate participation in ForceSMIP (see [About](https://sites.google.com/ethz.ch/forcesmip/about?authuser=0)), especially among early-career researchers. 
+**A﻿ug. 2023:** I participated in the **ForceSMIP Hackathon** at National Center for Atmospheric Research (UCAR) in Boulder, CO. The hackathon aims to stimulate participation in ForceSMIP (see [About](https://sites.google.com/ethz.ch/forcesmip/about?authuser=0)), especially among early-career researchers. 
 
 **A﻿ug. 2023:** I am honored to be selected as one of the 15 geographers participating in the inaugural **"Elevate the Discipline"** program by the American Association of Geographers (AAG), focused on the theme of "Climate and Society" and based in Washington D.C. The program trains scientists to leverage the media and other public channels as voices for public policies. Check out the [cohort](https://www.aag.org/program/2023-climate-change-society-cohort/)!  
 
