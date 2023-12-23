@@ -2,8 +2,8 @@
 widget: featured
 widget_id: " "
 headless: true
-weight: 80
-title: Publications
+weight: 50
+title: People
 subtitle: ""
 active: false
 content:
