@@ -19,9 +19,14 @@ content:
     publication_type: ""
   offset: 0
   order: desc
+user_groups:
+    - Principal Investigator
+    - Graduate Research Assistant
 design:
-  view: 2
-  columns: "1"
+  show_interests: false
+  show_role: true
+  show_social: true
+  
 ---
 <!--StartFragment-->
 
