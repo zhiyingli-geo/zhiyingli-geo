@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: content/people
 widget_id: " "
 headless: true
 weight: 50
