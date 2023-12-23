@@ -35,7 +35,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principle Investigator
+  - Principal Investigator
 ---
 Welcome to the **Hydroclimatology Group** at O'Neill School at Indiana University Bloomington! We are interested in fundamental and applied questions in the interrelations among climate, water, and people. Our group seeks to provide a comprehensive understanding of variability, drivers, and impacts of two representations of changes in the water cycle in a warming world: (1) **hydroclimatic extremes** such as drought and flooding, and (2) **water availability.** We use a wide range of approaches including process-based hydrologic models, hydrologic theory, fully coupled Earth System Models, spatiotemporal statistical modeling, machine learning, big data, GIS, and remote sensing. The overarching goal of our research is to inform vital strategies for managing compound and cascading risks posed by climate change and fostering resilient responses.
 
