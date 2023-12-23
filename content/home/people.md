@@ -6,7 +6,8 @@ weight: 50
 title: People
 subtitle: null
 active: true
-# author: admin
+author: admin
+type: landing
 content:
   user_groups:
       - Principal Investigator
