@@ -7,7 +7,7 @@ social:
   - display:
       header: false
     link: www.linkedin.com/in/romany-tafid-42b580147
-    icon_pack: fas
+    icon_pack: fab
     icon: linkedin
 superuser: false
 ---
