@@ -1,5 +1,7 @@
 ---
 title: Romany Tafid
+authors:
+  - Romany Tafid
 role: Graduate Research Assistant
 avatar_filename: avatar.jpg
 bio: Graduate Research Assistant
