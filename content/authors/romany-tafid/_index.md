@@ -15,7 +15,7 @@ social:
 
     link:/#about2
     icon_pack: fab
-    icon: about
+    icon: linkedin
 superuser: false
 user_groups:
   - Graduate Research Assistant
