@@ -6,7 +6,7 @@ weight: 50
 title: People
 subtitle: null
 active: true
-author: admin
+# author: admin
 content:
   user_groups:
       - Principal Investigator
@@ -17,8 +17,8 @@ design:
   show_social: true
 
 ---
-<!--StartFragment-->
+# <!--StartFragment-->
 
-T﻿est
+# T﻿est
 
-<!--EndFragment-->
+# <!--EndFragment-->
