@@ -6,6 +6,5 @@ weight: 90
 title: About2
 active: true
 author: romany-tafid
-author: admin
 
 ---
