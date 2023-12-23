@@ -12,7 +12,7 @@ social:
     icon: linkedin
   - display:
       header: true
-    link: /#about2
+    link: content/home/about2.md
     icon_pack: fab
     icon: linkedin
 superuser: false
