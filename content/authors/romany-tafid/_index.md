@@ -12,10 +12,6 @@ social:
     link: www.linkedin.com/in/romany-tafid-42b580147
     icon_pack: fab
     icon: linkedin
-
-    link:/#about2
-    icon_pack: fab
-    icon: linkedin
 superuser: false
 user_groups:
   - Graduate Research Assistant
