@@ -7,7 +7,7 @@ avatar_filename: avatar.jpg
 # bio: Graduate Research Assistant
 social:
   - display:
-      header: false
+      header: true
     link: www.linkedin.com/in/romany-tafid-42b580147
     icon_pack: fab
     icon: linkedin
