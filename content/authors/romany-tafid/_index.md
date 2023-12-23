@@ -1,5 +1,5 @@
 ---
-title: [Romany Tafid](/#about2)
+title: Romany Tafid [Romany Tafid](/#about2)
 
 authors:
   - Romany Tafid
