@@ -29,7 +29,7 @@ main:
     url: '#contact'
     weight: 80
   - name: Test
-    url: '#about-1'
+    url: '#about2'
     weight: 90
 
 # Link to a PDF of your resume/CV from the menu.
