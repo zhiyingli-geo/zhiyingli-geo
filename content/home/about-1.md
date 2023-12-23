@@ -5,5 +5,5 @@ headless: true
 weight: 120
 title: About2
 active: true
-author: admin
+author: romany-tafid
 ---
