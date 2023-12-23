@@ -1,10 +1,23 @@
 ---
 widget: pages
-
+widget_id: " "
+headless: true
+weight: 50
 title: People
-date: 2022-10-24
-
-type: landing
+subtitle: ""
+active: false
+content:
+  page_type: publication
+  count: 0
+  filters:
+    author: ""
+    category: ""
+    publication_type: ""
+    tag: ""
+  order: desc
+design:
+  view: 3
+  columns: "1"
 
 sections:
   - block: people
