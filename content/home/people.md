@@ -1,6 +1,6 @@
 ---
 widget: about
-active: false
+active: true
 sections:
   - block: people
     content:
@@ -14,7 +14,7 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-widget_id: about
+widget_id: people
 headless: true
 weight: 50
 title: People
