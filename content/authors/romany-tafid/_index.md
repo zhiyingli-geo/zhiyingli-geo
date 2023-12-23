@@ -4,7 +4,7 @@ authors:
   - Romany Tafid
 role: Graduate Research Assistant
 avatar_filename: avatar.jpg
-bio: Graduate Research Assistant
+# bio: Graduate Research Assistant
 social:
   - display:
       header: false
