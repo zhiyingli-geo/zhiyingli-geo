@@ -8,16 +8,14 @@ subtitle: null
 active: true
 author: admin
 type: landing
-sections:
-- block: people
-  content:
-    user_groups:
-        - Principal Investigator
-        - Graduate Research Assistant
-  design:
-    show_interests: false
-    show_role: true
-    show_social: true
+content:
+  user_groups:
+      - Principal Investigator
+      - Graduate Research Assistant
+design:
+  show_interests: false
+  show_role: true
+  show_social: true
   
 # <!--StartFragment-->
 
