@@ -14,7 +14,7 @@ social:
       header: true
     link: content/home/#about2.md
     icon_pack: fab
-    icon: linkedin
+    icon: bullhorn
 superuser: false
 user_groups:
   - Graduate Research Assistant
