@@ -7,9 +7,10 @@ title: People
 subtitle: null
 active: true
 author: admin
-user_groups:
-    - Principal Investigator
-    - Graduate Research Assistant
+content:
+  user_groups:
+      - Principal Investigator
+      - Graduate Research Assistant
 design:
   show_interests: false
   show_role: true
