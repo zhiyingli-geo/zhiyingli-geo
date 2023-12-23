@@ -1,5 +1,5 @@
 ---
-title: Romany Tafid
+title: [Romany Tafid](#about-1)
 authors:
   - Romany Tafid
 role: Graduate Research Assistant
