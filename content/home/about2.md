@@ -1,5 +1,5 @@
 ---
-widget: about2
+widget: about
 widget_id: about2
 headless: true
 weight: 90
