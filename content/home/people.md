@@ -1,6 +1,6 @@
 ---
 widget: people
-widget_id: " "
+widget_id: people
 headless: true
 weight: 50
 title: People
