@@ -26,9 +26,7 @@ design:
 
 **Instructor**
 
-Introduction to Environmental Science (E272), O'Neill School, Indiana University Bloomington (Spring 2024; upcoming)
-
-
+Introduction to Environmental Science (E272), O'Neill School, Indiana University Bloomington (Spring 2024)
 
 **Guest Lecturer**
 
