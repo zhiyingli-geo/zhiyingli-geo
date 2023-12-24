@@ -1,5 +1,5 @@
 ---
-title: Romany Tafid
+title: [Romany Tafid](/#about2).
 authors:
   - Romany Tafid
 role: master's student in Environmental Science
@@ -10,11 +10,11 @@ social:
     link: www.linkedin.com/in/romany-tafid-42b580147
     icon_pack: fab
     icon: linkedin
-  - display:
-      header: true
-    link: content/home/#about2.md
-    icon_pack: fab
-    icon: bullhorn
+#  - display:
+#      header: true
+#    link: content/home/#about2.md
+#    icon_pack: fab
+#    icon: bullhorn
 superuser: false
 user_groups:
   - Graduate Research Assistant
