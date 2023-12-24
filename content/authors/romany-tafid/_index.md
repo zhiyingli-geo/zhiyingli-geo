@@ -6,15 +6,15 @@ role: master's student in Environmental Science
 avatar_filename: avatar.jpg
 social:
   - display:
+      header: false
+    link: romtafid@iu.edu
+    icon_pack: fas
+    icon: envelope
+  - display:
       header: true
     link: www.linkedin.com/in/romany-tafid-42b580147
     icon_pack: fab
     icon: linkedin
-#  - display:
-#      header: true
-#    link: content/home/#about2.md
-#    icon_pack: fab
-#    icon: bullhorn
 superuser: false
 user_groups:
   - Graduate Research Assistant
