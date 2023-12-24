@@ -3,7 +3,7 @@ superuser: false
 authors:
   - Romany Tafid
 title: Romany Tafid
-url: #about2
+url: /#about2
 role: master's student in Environmental Science
 avatar_filename: avatar.jpg
 social:
