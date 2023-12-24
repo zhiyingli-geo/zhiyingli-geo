@@ -3,7 +3,7 @@ widget: people
 widget_id: people
 headless: true
 weight: 50
-title: People
+title: Meet the Team
 subtitle: null
 active: true
 author: admin
