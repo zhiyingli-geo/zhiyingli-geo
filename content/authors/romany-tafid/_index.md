@@ -7,6 +7,8 @@ title: Romany Tafid
 first_name: Romany
 last_name: Tafid
 
+text: |
+        {{% cta cta_link="./content/home/about2.md" cta_text="Romany Tafid" %}}
 url: /content/home/about2.md
 role: master's student in Environmental Science
 avatar_filename: avatar.jpg
