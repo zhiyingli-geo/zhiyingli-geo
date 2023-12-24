@@ -8,7 +8,7 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: romtafid@iu.edu
+    link: mailto:romtafid@iu.edu
     icon_pack: fas
     icon: envelope
   - display:
