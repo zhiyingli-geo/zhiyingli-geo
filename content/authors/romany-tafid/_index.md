@@ -1,5 +1,5 @@
 ---
-title: [Romany Tafid](/#about2).
+title: Romany Tafid[About]({{< ref "/#about2" >}})
 authors:
   - Romany Tafid
 role: master's student in Environmental Science
