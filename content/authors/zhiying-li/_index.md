@@ -5,7 +5,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Drought Monitoring
-  - Water Availability
+  - Watershed Hydrology
+  - Climate Modeling
   - Global Climate Change
 social:
   - icon: envelope
