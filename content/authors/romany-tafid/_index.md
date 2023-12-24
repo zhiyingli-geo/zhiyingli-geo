@@ -17,7 +17,7 @@ social:
     icon: envelope
   - display:
       header: true
-    link: www.linkedin.com/in/romany-tafid-42b580147
+    link: https://www.linkedin.com/in/romany-tafid
     icon_pack: fab
     icon: linkedin
 education:
