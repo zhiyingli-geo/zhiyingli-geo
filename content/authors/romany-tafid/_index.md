@@ -12,6 +12,21 @@ last_name: Tafid
 # url: /content/home/about2.md
 role: master's student in Environmental Science
 avatar_filename: avatar.jpg
+
+interests:
+  - Water Quality
+  - Climate Change Impacts
+  - Aquatic Invasive Species
+
+education:
+  courses:
+    - course: M.S. in Environmental Science
+      institution: Indiana University, Bloomington
+      year: 2024
+    - course: BSc in Chemistry
+      institution: Assiut University
+      year: 2015
+      
 social:
   - display:
       header: false
