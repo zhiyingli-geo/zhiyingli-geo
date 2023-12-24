@@ -2,7 +2,7 @@
 title: Romany Tafid
 authors:
   - Romany Tafid
-role: Graduate Research Assistant
+role: M.S. student in Environmental Science
 avatar_filename: avatar.jpg
 social:
   - display:
