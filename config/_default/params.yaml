@@ -76,6 +76,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
+  - latex
 highlight_superuser: true
 math: false
 diagram: false
