@@ -2,7 +2,7 @@
 title: Romany Tafid
 authors:
   - Romany Tafid
-role: M.S. student in Environmental Science
+role: master's student in Environmental Science
 avatar_filename: avatar.jpg
 social:
   - display:
