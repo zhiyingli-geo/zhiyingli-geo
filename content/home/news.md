@@ -24,7 +24,7 @@ design:
 ---
 <!--StartFragment-->
 
-**Jan. 2024**: Ayesha Tajammul Ahmed Mulla,a Master’s student in Environmental Science, join the group as a **Graduate Research Assistant**!
+**Jan. 2024**: Ayesha Tajammul Ahmed Mulla, a Master’s student in Data Science, join the group as a **Graduate Research Assistant**!
 
 **Dec. 2023**: I gave a poster presentation at **the American Geophysical Union (AGU) 2023 Annual Meeting** in San Francisco, CA. My presentation is about “Climate Trends Force Step Changes in U.S. Drought Classifications”. 
 
