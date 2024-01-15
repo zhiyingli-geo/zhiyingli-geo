@@ -6,9 +6,9 @@ title: Ayesha Tajammul Ahmed Mulla
 role: Master's student in Data Science
 avatar_filename: avatar.jpg
 interests:
-  - Water Quality
-  - Climate Change Impacts
-  - Aquatic Invasive Species
+  - Time Series Modeling
+  - Machine Learning
+  - Spatiotemporal Statistical Analysis
 social:
   - display:
       header: false
