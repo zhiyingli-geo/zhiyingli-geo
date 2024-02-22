@@ -17,7 +17,7 @@ social:
     link: https://twitter.com/ZhiyingLi
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=WfPjnowAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?hl=en&user=WfPjnowAAAAJ&view_op=list_works&sortby=pubdate
   - icon: github
     icon_pack: fab
     link: https://github.com/zhiyingli-geo
