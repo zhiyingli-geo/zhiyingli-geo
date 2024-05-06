@@ -24,7 +24,7 @@ design:
 ---
 <!--StartFragment-->
 
-**Apr. 2024**: My first-authored paper is published in ***AGU Advances***: “Emergent Trends Complicate the Interpretation of the United States Drought Monitor (USDM)”. [Check it out](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023AV001070)! Also check out the **Research Spotlight at [EoS.org](https://eos.org/research-spotlights/when-extreme-drought-becomes-commonplace)**and** [PreventionWeb](https://www.preventionweb.net/news/when-extreme-drought-becomes-commonplace)** at UN Office for Disaster Risk Reduction.
+**Apr. 2024**: My first-authored paper is published in ***AGU Advances***: “Emergent Trends Complicate the Interpretation of the United States Drought Monitor (USDM)”. [Check it out](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023AV001070)! Also check out the Research Spotlight at** [EoS.org](https://eos.org/research-spotlights/when-extreme-drought-becomes-commonplace)**and** [PreventionWeb](https://www.preventionweb.net/news/when-extreme-drought-becomes-commonplace)** at UN Office for Disaster Risk Reduction.
 
 **Apr. 2024**: I gave a lightning talk at **[the Environmental Resilience Institute Research Symposium](https://eri.iu.edu/news-and-events/events/2024-research-symposium.html)** in Bloomington, IN. 
 
