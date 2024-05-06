@@ -24,6 +24,12 @@ design:
 ---
 <!--StartFragment-->
 
+**Apr. 2024**: My first-authored paper is published in ***AGU Advances***: “Emergent Trends Complicate the Interpretation of the United States Drought Monitor (USDM)”. [Check it out](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023AV001070)! Also check out the **Research Spotlight at [EoS.org](https://eos.org/research-spotlights/when-extreme-drought-becomes-commonplace)**and** [PreventionWeb](https://www.preventionweb.net/news/when-extreme-drought-becomes-commonplace)** at UN Office for Disaster Risk Reduction.
+
+**Apr. 2024**: I gave a lightning talk at **[the Environmental Resilience Institute Research Symposium](https://eri.iu.edu/news-and-events/events/2024-research-symposium.html)** in Bloomington, IN. 
+
+**Apr. 2024**: I gave a virtual oral presentation at **the American Association of Geographers (AAG) 2024 Annual Meeting**. 
+
 **Jan. 2024**: Ayesha Tajammul Ahmed Mulla, a Master’s student in Data Science, join the group as a **Graduate Research Assistant**!
 
 **Dec. 2023**: I gave a poster presentation at **the American Geophysical Union (AGU) 2023 Annual Meeting** in San Francisco, CA. My presentation is about “Climate Trends Force Step Changes in U.S. Drought Classifications”. 
