@@ -5,10 +5,10 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Jason E Smerdon
+  - Jason E. Smerdon
   - Richard Seager
   - Noel Siegert
-  - Justin S Mankin
+  - Justin S. Mankin
 publication: "*AGU Advances*, 5(2), e2023AV001070"
 abstract: Effective drought management must be informed by an understanding of
   whether and how current drought monitoring and assessment practices represent
@@ -34,9 +34,8 @@ abstract: Effective drought management must be informed by an understanding of
   monitoring should address long-term intervals of wet and dry periods or
   trends.
 draft: false
-featured: false
-
 url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023AV001070
+featured: false
 tags:
   - Drought monitoring
 image:
