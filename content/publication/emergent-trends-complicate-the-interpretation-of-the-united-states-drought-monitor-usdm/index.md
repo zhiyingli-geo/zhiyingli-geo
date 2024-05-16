@@ -9,7 +9,7 @@ authors:
   - Richard Seager
   - Noel Siegert
   - Justin S Mankin
-publication: "*AGU Advances*"
+publication: "*AGU Advances*, 5(2), e2023AV001070"
 abstract: Effective drought management must be informed by an understanding of
   whether and how current drought monitoring and assessment practices represent
   underlying nonstationary climate conditions, either naturally occurring or
