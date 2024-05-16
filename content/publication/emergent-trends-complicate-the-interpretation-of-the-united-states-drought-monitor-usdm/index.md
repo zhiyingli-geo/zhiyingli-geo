@@ -35,6 +35,8 @@ abstract: Effective drought management must be informed by an understanding of
   trends.
 draft: false
 featured: false
+
+url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023AV001070
 tags:
   - Drought monitoring
 image:
