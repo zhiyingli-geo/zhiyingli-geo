@@ -6,7 +6,7 @@ authors:
   - Ning Zhang
   - admin
   - Steven M. Quiring
-publication: "*Journal of Hydrometeorology*"
+publication: "*Journal of Hydrometeorology*, 24(7), 1225-1240"
 abstract: "Drought monitoring is critical for managing agriculture and water
   resources and for triggering state emergency response plans and hazard
   mitigation activities. Fixed thresholds serve as guidelines for the United
