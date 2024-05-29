@@ -26,7 +26,7 @@ design:
 
 **Apr. 2024**: I gave a lightning talk at **[the Environmental Resilience Institute Research Symposium](https://eri.iu.edu/news-and-events/events/2024-research-symposium.html)** in Bloomington, IN. 
 
-**Apr. 2024**: My first-authored paper is published in ***AGU Advances***: “Emergent Trends Complicate the Interpretation of the United States Drought Monitor (USDM)”. [Check it out](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023AV001070)! Also check out the **Research Spotlight at [EoS.org](https://eos.org/research-spotlights/when-extreme-drought-becomes-commonplace),** **[NOAA/NIDIS News](https://www.drought.gov/news/emerging-climate-trends-make-monitoring-drought-more-complex-2024-05-28),** and** [Dartmouth News](https://home.dartmouth.edu/news/2024/05/us-drought-monitoring-system-outpaced-climate-changes)**. 
+**Apr. 2024**: My first-authored paper is published in ***AGU Advances***: “Emergent Trends Complicate the Interpretation of the United States Drought Monitor (USDM)”. [Check it out](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023AV001070)! Also check out the **Research Spotlight** at [EoS.org](https://eos.org/research-spotlights/when-extreme-drought-becomes-commonplace), [NOAA/NIDIS News](https://www.drought.gov/news/emerging-climate-trends-make-monitoring-drought-more-complex-2024-05-28), and [Dartmouth News](https://home.dartmouth.edu/news/2024/05/us-drought-monitoring-system-outpaced-climate-changes). 
 
 **Apr. 2024**: I am honored to be appointed as a review editor at [Frontiers in Remote Sensing | Terrestrial Water Cycle](https://www.frontiersin.org/journals/remote-sensing/sections/terrestrial-water-cycle)! 
 
