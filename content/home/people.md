@@ -11,7 +11,8 @@ type: landing
 content:
   user_groups:
       - Principal Investigator
-      - Graduate Research Assistant
+      - Graduate Students
+      - Former Group Members
 design:
   show_interests: false
   show_role: true
