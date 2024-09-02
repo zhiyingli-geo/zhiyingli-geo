@@ -1,5 +1,6 @@
 ---
 title: Tian Yang
+role: Ph.D. student in Environmental Science
 avatar_filename: avatar.jpg
 interests:
   - Drought-flood Abrupt Alternation
