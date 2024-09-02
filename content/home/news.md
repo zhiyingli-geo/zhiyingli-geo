@@ -24,7 +24,7 @@ design:
 ---
 <!--StartFragment-->
 
-**Aug. 2024:** Guoqing Gong and Tian Yang join the group as Ph.D. students! Welcome, Guoqing and Tian!
+**Aug. 2024:** Guoqing Gong and Tian Yang join the group as **Ph.D. students**! Welcome, Guoqing and Tian!
 
 **Aug. 2024**: I gave an invited talk at the **[Midwest Drought Early Warning System (DEWS) Partners Meeting](https://www.drought.gov/events/midwest-drought-early-warning-system-dews-partners-meeting-2024-08-20)**, Indianapolis, IN.
 
