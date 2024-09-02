@@ -18,7 +18,7 @@ education:
       year: 2024
     - course: B.E. in Geological Engineering
       institution: Taiyuan University of Technology, Taiyuan, China
-      year: 2017
+      year: 2021
 email: ty11@iu.edu
 superuser: false
 user_groups:
