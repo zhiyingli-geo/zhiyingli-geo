@@ -26,7 +26,9 @@ design:
 
 **Instructor**
 
-Introduction to Environmental Science (E272), O'Neill School, Indiana University Bloomington (Spring 2024)
+Environmental Sustainability Science (E555), O'Neill School of Public and Environmental Affairs, Indiana University Bloomington (Fall 2024)
+
+Introduction to Environmental Science (E272), O'Neill School of Public and Environmental Affairs, Indiana University Bloomington (Spring 2024)
 
 **Guest Lecturer**
 
