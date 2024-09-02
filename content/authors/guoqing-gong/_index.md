@@ -1,5 +1,6 @@
 ---
 title: Guoqing Gong
+role: Ph.D. student in Environmental Science
 avatar_filename: avatar.jpg
 interests:
   - Extreme Weather
