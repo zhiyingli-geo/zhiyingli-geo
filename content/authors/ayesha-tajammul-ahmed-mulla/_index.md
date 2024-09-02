@@ -3,7 +3,7 @@ superuser: false
 authors:
   - Romany Tafid
 title: Ayesha Tajammul Ahmed Mulla
-role: Master's student in Data Science
+role: Research Assistant
 avatar_filename: avatar.jpg
 interests:
   - Time Series Modeling
