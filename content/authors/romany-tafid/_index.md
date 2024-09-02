@@ -3,7 +3,7 @@ superuser: false
 authors:
   - Romany Tafid
 title: Romany Tafid
-role: Master's in Environmental Science
+role: Research Assistant
 avatar_filename: avatar.jpg
 interests:
   - Water Quality
