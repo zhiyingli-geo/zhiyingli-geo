@@ -30,7 +30,7 @@ education:
       year: 2015
 email: romtafid@iu.edu
 user_groups:
-  - Graduate Research Assistant
+  - Former Group Members
 last_name: Tafid
 first_name: Romany
 ---
