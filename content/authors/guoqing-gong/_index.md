@@ -19,7 +19,7 @@ education:
       year: 2024
     - course: B.E. in Recycling of Resources in Science and Engineering
       institution: Fujian Normal University, Fuzhou, China
-      year: 2016
+      year: 2021
 email: gongg@iu.edu
 superuser: false
 user_groups:
