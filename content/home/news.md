@@ -24,6 +24,10 @@ design:
 ---
 <!--StartFragment-->
 
+**Aug. 2024:** Guoqing Gong and Tian Yang join the group as Ph.D. students! Welcome, Guoqing and Tian!
+
+**Aug. 2024**: I gave an invited talk at the **[Midwest Drought Early Warning System (DEWS) Partners Meeting](https://www.drought.gov/events/midwest-drought-early-warning-system-dews-partners-meeting-2024-08-20)**, Indianapolis, IN.
+
 **Jul. 2024**: I gave a poster presentation at the **[Extreme Heat Workshop Hosted by the Columbia Climate School](https://www.climate.columbia.edu/extreme-heat-workshop)**, New York, NY.
 
 **Apr. 2024**: I gave a lightning talk at **[the Environmental Resilience Institute Research Symposium](https://eri.iu.edu/news-and-events/events/2024-research-symposium.html)** in Bloomington, IN. 
