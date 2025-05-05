@@ -46,11 +46,11 @@ design:
 
 **Aug. 2024:** [Guoqing Gong](https://zhiyingli-geo.com/authors/guoqing-gong/) and [Tian Yang](https://zhiyingli-geo.com/authors/tian-yang/) join the group as **Ph.D. students**! Welcome, Guoqing and Tian!
 
-**Aug. 2024**: Zhiying Li was gave an invited talk at the **[Midwest Drought Early Warning System (DEWS) Partners Meeting](https://www.drought.gov/events/midwest-drought-early-warning-system-dews-partners-meeting-2024-08-20)**, Indianapolis, IN.
+**Aug. 2024**: Zhiying Li gave an invited talk at the **[Midwest Drought Early Warning System (DEWS) Partners Meeting](https://www.drought.gov/events/midwest-drought-early-warning-system-dews-partners-meeting-2024-08-20)**, Indianapolis, IN.
 
 **Jul. 2024**: Zhiying Li gave a poster presentation at the **[Extreme Heat Workshop Hosted by the Columbia Climate School](https://www.climate.columbia.edu/extreme-heat-workshop)**, New York, NY.
 
-**May 2024**: Sandeep Batta, Ashtavinayak Pande, and Sai Ruthvik Reddy Mitta join the group as **summer intern** as part of the Faculty Assistance of Data Science Program. Welcome, Sandeep, Ashta, and Sai!
+**May 2024**: Sandeep Batta, Ashtavinayak Pande, and Sai Ruthvik Reddy Mitta join the group as **summer interns** as part of the Faculty Assistance of Data Science Program. Welcome, Sandeep, Ashta, and Sai!
 
 **Apr. 2024**: Zhiying Li gave a lightning talk at **[the Environmental Resilience Institute Research Symposium](https://eri.iu.edu/news-and-events/events/2024-research-symposium.html)** in Bloomington, IN. 
 
@@ -64,11 +64,11 @@ design:
 
 **Jan. 2024**: Zhiying Li gave an invited talk at the [School of Environment, Geography, and Sustainability at Western Michigan University](https://wmich.edu/environment), Kalamazoo, MI.
 
-**Jan. 2024**: Ayesha Tajammul Ahmed Mulla, a Master’s student in Data Science, join the group as a **Graduate Research Assistant**!
+**Jan. 2024**: Ayesha Tajammul Ahmed Mulla, a Master’s student in Data Science, joins the group as a **Graduate Research Assistant**!
 
 **Dec. 2023**: Zhiying Li gave a poster presentation at **the American Geophysical Union (AGU) 2023 Annual Meeting** in San Francisco, CA. The presentation is about “Climate Trends Force Step Changes in U.S. Drought Classifications”. 
 
-**Oct. 2023**: Romany Tafid, a Master’s student in Environmental Science, join the group as a **Graduate Research Assistant**!
+**Oct. 2023**: Romany Tafid, a Master’s student in Environmental Science, joins the group as a **Graduate Research Assistant**!
 
 **A﻿ug. 2023:** Zhiying Li participated in the **ForceSMIP Hackathon** at National Center for Atmospheric Research (UCAR) in Boulder, CO. The hackathon aims to stimulate participation in ForceSMIP (see [About](https://sites.google.com/ethz.ch/forcesmip/about?authuser=0)), especially among early-career researchers. 
 
