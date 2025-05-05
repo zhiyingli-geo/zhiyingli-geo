@@ -8,6 +8,16 @@ social:
     link: sabatta@iu.edu
     icon_pack: fas
     icon: envelope
+  - display:
+      header: false
+    link: https://github.com/SandeepBatta
+    icon_pack: fab
+    icon: github
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/sandeepbatta/
+    icon_pack: fab
+    icon: linkedin
 education:
   courses:
     - course: M.S. in Data Science
