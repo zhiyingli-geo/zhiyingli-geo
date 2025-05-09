@@ -24,6 +24,8 @@ design:
 ---
 <!--StartFragment-->
 
+**May 2025**: Tian Yang is awarded the [Sustainability Research Development Grant](https://environment.indiana.edu/programs/srdg.html) by IU [Integrated Program in the Environment](https://environment.indiana.edu/index.html). Congratulations, Tian!
+
 **Apr. 2025**: Zhiying Li gave an invited talk at the [Department of Earth and Atmospheric Sciences](https://earth.indiana.edu/index.html), Indiana University, Bloomington, IN. Check out the [talk abstract](https://events.iu.edu/bloomington/event/1736409-eas-colloquium-series-dr-zhiying-li-iu-bloomington)!
 
 **Mar. 2025**: Tian Yang won the [First Place Climate Specialty Group's Student Paper Competition](https://sites.google.com/view/aag-climate/awards/student-paper-competition) for the **2025 AAG Annual Meeting**! Congratulations, Tian!
