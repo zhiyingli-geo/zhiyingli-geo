@@ -24,6 +24,10 @@ design:
 ---
 <!--StartFragment-->
 
+**May 2025**: Zhiying Li's co-authored paper is published in ***Journal of Climate***: "Nonlinear carbon feedbacks in CMIP6 and their impacts on future freshwater availability". [Check it out](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0028.1/JCLI-D-24-0028.1.xml)!
+
+**May 2025**: Nisha Sarwar, Aaryan Patil, and Kishore Kumar Ramkumar join the group as **graduate research assistant** as part of the Faculty Assistance of Data Science Program. Welcome, Nisha, Aaryan, and Kishore!
+
 **May 2025**: Tian Yang is awarded the [Sustainability Research Development Grant](https://environment.indiana.edu/programs/srdg.html) by IU [Integrated Program in the Environment](https://environment.indiana.edu/index.html). Congratulations, Tian!
 
 **Apr. 2025**: Zhiying Li gave an invited talk at the [Department of Earth and Atmospheric Sciences](https://earth.indiana.edu/index.html), Indiana University, Bloomington, IN. Check out the [talk abstract](https://events.iu.edu/bloomington/event/1736409-eas-colloquium-series-dr-zhiying-li-iu-bloomington)!
@@ -52,7 +56,7 @@ design:
 
 **Jul. 2024**: Zhiying Li gave a poster presentation at the **[Extreme Heat Workshop Hosted by the Columbia Climate School](https://www.climate.columbia.edu/extreme-heat-workshop)**, New York, NY.
 
-**May 2024**: Sandeep Batta, Ashtavinayak Pande, and Sai Ruthvik Reddy Mitta join the group as **summer interns** as part of the Faculty Assistance of Data Science Program. Welcome, Sandeep, Ashta, and Sai!
+**May 2024**: Sandeep Batta, Ashtavinayak Pande, and Sai Ruthvik Reddy Mitta join the group as **graduate research assistant** as part of the Faculty Assistance of Data Science Program. Welcome, Sandeep, Ashta, and Sai!
 
 **Apr. 2024**: Zhiying Li gave a lightning talk at **[the Environmental Resilience Institute Research Symposium](https://eri.iu.edu/news-and-events/events/2024-research-symposium.html)** in Bloomington, IN. 
 
