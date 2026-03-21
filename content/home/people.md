@@ -11,6 +11,7 @@ type: landing
 content:
   user_groups:
       - Principal Investigator
+      - Postdoctoral Research Associate
       - Graduate Students
       - Former Group Members
 design:
