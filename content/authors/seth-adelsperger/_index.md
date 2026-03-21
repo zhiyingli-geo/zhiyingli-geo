@@ -9,10 +9,15 @@ interests:
   - Anthropogenic Impacts on Streamflow
 social:
   - display:
-      header: false
+      header: true
     link: mailto:setadels@iu.edu
     icon_pack: fas
     icon: envelope
+  - display:
+      header: true
+    link: www.linkedin.com/in/seth-adelsperger
+    icon_pack: fab
+    icon: linkedin
 education:
   courses:
     - course: Ph.D. in Geography
