@@ -13,6 +13,7 @@ content:
       - Principal Investigator
       - Postdoctoral Research Associate
       - Graduate Students
+      - Undergraduate Students
       - Former Group Members
 design:
   show_interests: false
