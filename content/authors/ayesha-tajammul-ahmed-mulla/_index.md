@@ -25,7 +25,7 @@ education:
       year: 2021
 email: amulla@iu.edu
 user_groups:
-  - Graduate Students
+  - Former Group Members
 last_name: Tafid
 first_name: Romany
 ---
