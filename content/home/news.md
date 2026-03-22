@@ -24,6 +24,34 @@ design:
 ---
 <!--StartFragment-->
 
+**Feb. 2026**: Zhiying Li was appointed as an Associate Deputy Editor at [Climatic Change](https://link.springer.com/journal/10584/editorial-board)!
+
+**Jan. 2026**: Zhiying Li's co-authored paper is published in ***Annals of the American Association of Geographers***: "Elevating the Discipline: Creating Pathways for Geographers as Public Scholars". [Check it out](https://www.tandfonline.com/doi/full/10.1080/24694452.2025.2603505)!
+
+**Jan. 2026**: Zhiying Li contributed to a book chapter about Soil Erosion in ***Data-Driven Earth Observation for Disaster Management: From Theory to Practical Applications***. [Check it out](https://doi.org/10.1016/B978-0-443-33803-8.00022-6)!
+
+**Jan. 2026:** [Seth Adelsperger](https://zhiyingli-geo.com/authors/seth-adelsperger/) join the group as **Postdoctoral Research Associate**! Welcome, Seth!
+
+**Dec. 2025:** Zhiying Li gave an oral presentation at the **American Geophysical Union (AGU) 2025 Annual Meeting** in New Orleans, LA. The presentation is about “Aridification Distorts Drought Monitoring and Relief Efforts”.
+
+**Dec. 2025:** Zhiying Li chaired two oral sessions at the **American Geophysical Union (AGU) 2025 Annual Meeting** in New Orleans, LA. One session is about "Hydrologic Intensification, Aridification, and Compound Extremes" (primary convener); the other is about "Applications of Climate Science in a Nonstationary Climate" (co-convener).
+
+**Dec. 2025:** Tian Yang gave a poster presentation at the **American Geophysical Union (AGU) 2025 Annual Meeting** in New Orleans, LA. The presentation is about “Climatology and Trends of Abrupt Transition from Dry to Wet Extremes in the Contiguous United States”.
+
+**Nov. 2025:** Tian Yang gave a poster presentation about abrupt transition from dry to wet extremes at the [19th Annual Graduate Climate Conference](https://graduateclimateconference.github.io/) in Woods Hole, MA. The presentation is funded by the Graduate Climate Conference (GCC).
+
+**Oct. 2025:** Zhiying Li served as **IU Substitute Representative** for University Corporation for Atmospheric Research (UCAR) to attend the [Annual Members Meeting](https://www.ucar.edu/who-we-are/membership-governance/member-institutions/annual-members-meetings) at Boulder, CO.
+
+**Oct. 2025:** [Nia Walker](https://zhiyingli-geo.com/authors/nia-walker/) join the group as an **Undergraduate Research Assistant**! Welcome, Nia!
+
+**Aug. 2025:** Zhiying Li was selected as a participant for the [Faculty Tour of Rural Indiana 2025](https://rural.indiana.edu/contact/profiles/faculty-affiliates/li-zhiying.html).
+
+**Jul. 2025:** Nisha Sarwar, Aaryan Patil, and Kishore Kumar Ramkumar collectively won the **Best Overall Presentation Award** in the IU [Faculty Assistance in Data Science (FADS) Program](https://research.iu.edu/funding-proposals/funding/opportunities/faculty-assistance-in-data-science/index.html). Congratulations, Nisha, Aaryan, and Kishore!
+
+**Jul. 2025:** Zhiying Li was elected as the **Honors Director** for the American Association of Geographers (AAG) [Climate Specialty Group](https://sites.google.com/view/aag-climate/about/board-contact?authuser=0)!
+
+**Jul. 2025:** Zhiying Li served as a faculty mentor for K-12 students, Evelyn Isom and Taylor Tejada, through the [Jim Holland Summer Science Research Program](https://biology.indiana.edu/about/outreach/k-12-students/holland-summer-science-programs/holland-ssrp.html).
+
 **May 2025**: Zhiying Li's co-authored paper is published in ***Journal of Climate***: "Nonlinear carbon feedbacks in CMIP6 and their impacts on future freshwater availability". [Check it out](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0028.1/JCLI-D-24-0028.1.xml)!
 
 **May 2025**: Nisha Sarwar, Aaryan Patil, and Kishore Kumar Ramkumar join the group as **graduate research assistant** as part of the Faculty Assistance of Data Science Program. Welcome, Nisha, Aaryan, and Kishore!
