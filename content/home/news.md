@@ -30,7 +30,7 @@ design:
 
 **Jan. 2026**: Zhiying Li contributed to a book chapter about Soil Erosion in ***Data-Driven Earth Observation for Disaster Management: From Theory to Practical Applications***. [Check it out](https://doi.org/10.1016/B978-0-443-33803-8.00022-6)!
 
-**Jan. 2026:** [Seth Adelsperger](https://zhiyingli-geo.com/authors/seth-adelsperger/) join the group as **Postdoctoral Research Associate**! Welcome, Seth!
+**Jan. 2026:** [Seth Adelsperger](https://zhiyingli-geo.com/authors/seth-adelsperger/) joins the group as **Postdoctoral Research Associate**! Welcome, Seth!
 
 **Dec. 2025:** Zhiying Li gave an oral presentation at the **American Geophysical Union (AGU) 2025 Annual Meeting** in New Orleans, LA. The presentation is about “Aridification Distorts Drought Monitoring and Relief Efforts”.
 
@@ -42,7 +42,7 @@ design:
 
 **Oct. 2025:** Zhiying Li served as **IU Substitute Representative** for University Corporation for Atmospheric Research (UCAR) to attend the [Annual Members Meeting](https://www.ucar.edu/who-we-are/membership-governance/member-institutions/annual-members-meetings) at Boulder, CO.
 
-**Oct. 2025:** [Nia Walker](https://zhiyingli-geo.com/authors/nia-walker/) join the group as an **Undergraduate Research Assistant**! Welcome, Nia!
+**Oct. 2025:** [Nia Walker](https://zhiyingli-geo.com/authors/nia-walker/) joins the group as an **Undergraduate Research Assistant**! Welcome, Nia!
 
 **Aug. 2025:** Zhiying Li was selected as a participant for the [Faculty Tour of Rural Indiana 2025](https://rural.indiana.edu/contact/profiles/faculty-affiliates/li-zhiying.html).
 
