@@ -37,7 +37,7 @@ draft: false
 url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023AV001070
 featured: false
 tags:
-  - Drought monitoring
+  - Drought
 image:
   filename: featured
   focal_point: Smart
