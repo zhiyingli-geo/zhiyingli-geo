@@ -11,10 +11,10 @@ education:
     - course: M.Eng. in Water Disaster and Water Security
       institution: China Institute of Water Resources and Hydropower Research,
         Beijing, China
-      year: 2023-2026
+      year: 2026
     - course: B.Eng. in Agricultural Water Conservancy Engineering
       institution: Hohai University, Nanjing, China
-      year: 2019-2023
+      year: 2023
 email: yha1@iu.edu
 superuser: false
 user_groups:
