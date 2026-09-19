@@ -30,7 +30,7 @@ design:
 
 **Jul. 2026**: Zhiying Li's co-authored paper is published in ***iScience***: "Hydrological seasonality drives a predictable reversal in anthropogenic pollution dominance in mountain watersheds". [Check it out](https://www.sciencedirect.com/science/article/pii/S2589004226017414)!
 
-**Jul. 2026:** Zhiying Li participated in the [**HeatHack**](https://karenamckinnon.github.io/heathack.html) at National Center for Atmospheric Research (UCAR) in Boulder, CO. The hackathon is for early-career researchers across climate science and statistics.
+**Jul. 2026:** Zhiying Li participated in the **[HeatHack](https://karenamckinnon.github.io/heathack.html)** at National Center for Atmospheric Research (UCAR) in Boulder, CO. The hackathon is for early-career researchers across climate science and statistics.
 
 **Apr. 2026**: Zhiying Li was named [Fischer Faculty Fellow](https://oneill.indiana.edu/news/2026-0413-li-fischer-fellow.html) at O'Neill School!
 
@@ -44,9 +44,9 @@ design:
 
 **Jan. 2026:** [Seth Adelsperger](https://zhiyingli-geo.com/authors/seth-adelsperger/) joins the group as **Postdoctoral Research Associate**! Welcome, Seth!
 
-**Dec. 2025:** Zhiying Li gave an oral presentation at the **American Geophysical Union (AGU) 2025 Annual Meeting** in New Orleans, LA. The presentation is about “Aridification Distorts Drought Monitoring and Relief Efforts”.
+**Dec. 2025:** Zhiying Li gave an [oral presentation](https://studio.m-anage.com/agu/agu25/meetingapp.cgi/Paper/1887828) at the **American Geophysical Union (AGU) 2025 Annual Meeting** in New Orleans, LA. The presentation is about “Aridification Distorts Drought Monitoring and Relief Efforts”.
 
-**Dec. 2025:** Zhiying Li chaired two oral sessions at the **American Geophysical Union (AGU) 2025 Annual Meeting** in New Orleans, LA. One session is about "Hydrologic Intensification, Aridification, and Compound Extremes" (primary convener); the other is about "Applications of Climate Science in a Nonstationary Climate" (co-convener).
+**Dec. 2025:** Zhiying Li chaired two oral sessions at the **American Geophysical Union (AGU) 2025 Annual Meeting** in New Orleans, LA. One [session](https://studio.m-anage.com/agu/agu25/meetingapp.cgi/Session/261458) is about "Hydrologic Intensification, Aridification, and Compound Extremes" (primary convener); the [other](https://studio.m-anage.com/agu/agu25/meetingapp.cgi/Session/261340) is about "Applications of Climate Science in a Nonstationary Climate" (co-convener).
 
 **Dec. 2025:** Tian Yang gave a poster presentation at the **American Geophysical Union (AGU) 2025 Annual Meeting** in New Orleans, LA. The presentation is about “Climatology and Trends of Abrupt Transition from Dry to Wet Extremes in the Contiguous United States”.
 
