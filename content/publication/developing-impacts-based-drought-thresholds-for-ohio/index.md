@@ -32,7 +32,7 @@ featured: false
 
 url_pdf: https://doi.org/10.1175/JHM-D-22-0054.1
 tags:
-  - Drought monitoring
+  - Drought
 image:
   filename: featured
   focal_point: Smart
