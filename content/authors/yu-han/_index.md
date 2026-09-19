@@ -11,7 +11,7 @@ social:
       header: false
     link: mailto:yha1@iu.edu
     icon_pack: fas
-    icon: Envelope
+    icon: envelope
 education:
   courses:
     - course: M.Eng. in Water Disaster and Water Security
@@ -21,7 +21,7 @@ education:
     - course: B.Eng. in Agricultural Water Conservancy Engineering
       institution: Hohai University, Nanjing, China
       year: 2023
-email: ""
+email: yha1@iu.edu
 superuser: false
 user_groups:
   - Graduate Students
