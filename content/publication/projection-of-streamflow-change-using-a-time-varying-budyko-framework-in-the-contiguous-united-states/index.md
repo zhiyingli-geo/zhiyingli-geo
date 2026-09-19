@@ -34,6 +34,7 @@ url_pdf: https://doi.org/10.1029/2022WR033016
 tags:
   - Budyko framework
   - Streamflow
+  - Climate change
 image:
   filename: featured
   focal_point: Smart
