@@ -28,7 +28,7 @@ design:
   <div style="flex: 1 1 320px;">
     <h3 style="margin-top: 0; margin-bottom: 0.25rem;"><a href="/authors/seth-adelsperger/">Seth Adelsperger</a></h3>
     <p style="margin-top: 0; font-weight: 600;">Postdoctoral Research Associate</p>
-    <p>Seth Adelsperger is a postdoctoral researcher in the Hydroclimatology Group. His research examines hydrological extremes, especially floods and droughts, and works to identify their characteristics, spatial variability, drivers, and impacts. His current research focuses on understanding how historic hydrological intensification has affected water availability across the United States.</p>
+    <p>Seth Adelsperger (he/his) is a postdoctoral researcher in the Hydroclimatology Group. His research examines hydrological extremes, especially floods and droughts, and works to identify their characteristics, spatial variability, drivers, and impacts. His current research focuses on understanding how historic hydrological intensification has affected water availability across the United States.</p>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ design:
   <div style="flex: 1 1 320px;">
     <h3 style="margin-top: 0; margin-bottom: 0.25rem;"><a href="/authors/yu-han/">Yu Han</a></h3>
     <p style="margin-top: 0; font-weight: 600;">Ph.D. student in Environmental Science</p>
-    <p>Yu Han is a Ph.D. student in Environmental Science and a member of the Hydroclimatology Group. Her research focuses on hydroclimatic extremes, particularly the evolution, drivers, and risks of drought and extreme precipitation under climate variability and change. She is also interested in hydrological impacts and quantitative tools for assessment and prediction.</p>
+    <p>Yu Han (she/her) is a Ph.D. student in Environmental Science and a member of the Hydroclimatology Group. Her research focuses on hydroclimatic extremes, particularly the evolution, drivers, and risks of drought and extreme precipitation under climate variability and change. She is also interested in hydrological impacts and quantitative tools for assessment and prediction.</p>
   </div>
 </div>
 
