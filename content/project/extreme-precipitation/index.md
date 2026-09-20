@@ -4,7 +4,7 @@ date: 2021-09-03T00:49:29.034Z
 draft: false
 featured: true
 tags:
-  - other
+  - extremes
 links:
   - url: https://www.sciencedirect.com/science/article/abs/pii/S2213305419300049
     name: Paper
