@@ -14,7 +14,9 @@ content:
     - name: WaterAvailability
       tag: WaterAvailability
     - name: Drought
-      tag: drought monitoring
+      tag: drought nonstationarity
+    - name: Extremes
+      tag: extremes
     - name: Other
       tag: other
 design:
