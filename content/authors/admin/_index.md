@@ -34,4 +34,8 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-Welcome to the **Hydroclimatology Group** at O'Neill School at Indiana University Bloomington! We are interested in fundamental and applied questions in the interrelations among climate, water, and people. Our group seeks to provide a comprehensive understanding of variability, drivers, and impacts of two representations of changes in the water cycle in a warming world: (1) **hydroclimatic extremes** such as drought, extreme precipitation, and hydroclimate whiplash, and (2) **water availability.** We use a wide range of approaches including process-based hydrologic models, hydrologic theory, fully coupled Earth System Models, spatiotemporal statistical modeling, machine learning, GIS, and remote sensing. The overarching goal of our research is to inform risk management, climate adaptation, and sustainable development under climate change.
+Welcome to the **Hydroclimatology Group** at the O'Neill School of Public and Environmental Affairs, Indiana University Bloomington.
+
+We study how climate change is reshaping hydroclimatic extremes and water availability. Our work focuses on two connected questions: how hydroclimatic extremes such as drought, extreme precipitation, flooding, and climate whiplash evolve in a warming climate, and how those changes affect water availability, risk management, and climate adaptation.
+
+We combine Earth system model output, process-based hydrologic models, hydrologic theory, spatiotemporal statistics, machine learning, GIS, and remote sensing. Across these approaches, our goal is to produce science that helps communities, institutions, and decision-makers better understand and manage water risks under climate change.
