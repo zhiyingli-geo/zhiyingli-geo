@@ -42,7 +42,7 @@ I am looking forward to working with master students as research assistants. If 
 
 **Undergraduate students (IUB students only)**:
 
-Undergrad researchers are welcome in my group. Your research could serve as a senior thesis project or provide valuable experience for you, especially if you are considering pursuing graduate studies. If you are a current IUB student, and interested in watershed hydrology, water resources, climate modeling, and climate change, please contact me for potential opportunities. The [IUB Undergraduate Research office](https://undergradresearch.indiana.edu/programs-funding/index.html) also provides many great opportunities. I also recommend you keep an eye on the [Sustainability Scholars Program](https://environment.indiana.edu/programs/scholars/index.html)and [Emerging Scholars Research Experience Program](https://womenandtech.indiana.edu/programs/reuw/index.html).
+Undergrad researchers are welcome in my group. Your research could serve as a senior thesis project or provide valuable experience for you, especially if you are considering pursuing graduate studies. If you are a current IUB student, and interested in watershed hydrology, water resources, climate modeling, and climate change, please contact me for potential opportunities. The [IUB Undergraduate Research office](https://undergradresearch.indiana.edu/programs-funding/index.html) also provides many great opportunities. I also recommend you keep an eye on the [Sustainability Scholars Program](https://environment.indiana.edu/programs/scholars/index.html) and [Emerging Scholars Research Experience Program](https://womenandtech.indiana.edu/programs/reuw/index.html).
 
 **Visiting Scholar**:
 
