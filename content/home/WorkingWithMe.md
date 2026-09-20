@@ -36,7 +36,7 @@ Applications usually open September 1 and end on January 1 the following year. T
 
 You are welcome to reach out to me if you would like to apply. In your email, please briefly state your research background related to climate and hydrology, how your research interests align with mine, your quantitative and programming skills, CV, and TOEFL score if applicable as a non-native English speaker. 
 
-**Master students (IUB students at O’Neill only)**:
+**Master students (IUB students only)**:
 
 I am looking forward to working with master students as research assistants. If interested, please send me an email with your CV, a brief summary of your research experiences and quantitative or programming skills. 
 
