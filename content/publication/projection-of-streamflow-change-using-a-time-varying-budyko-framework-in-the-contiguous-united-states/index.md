@@ -35,6 +35,7 @@ tags:
   - Budyko framework
   - Streamflow
   - Climate change
+  - Hydrology
 image:
   filename: featured
   focal_point: Smart
