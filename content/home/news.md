@@ -36,7 +36,7 @@ design:
 
 **Apr. 2026**: Zhiying Li was named [Fischer Faculty Fellow](https://oneill.indiana.edu/news/2026-0413-li-fischer-fellow.html) at O'Neill School!
 
-**Apr. 2026**: Tian Yang won **First Place** in Physical & Mathematical Sciences at the [2026 IU Annual Research Poster Competition](https://womenandtech.indiana.edu/about/news/2026/2026-04-21-research-poster-competition.html)! Congratulations, Tian!
+**Apr. 2026**: Tian Yang won the **First Place** in Physical & Mathematical Sciences at the [2026 IU Annual Research Poster Competition](https://womenandtech.indiana.edu/about/news/2026/2026-04-21-research-poster-competition.html)! Congratulations, Tian!
 
 **Feb. 2026**: Zhiying Li was appointed as an Associate Deputy Editor at [Climatic Change](https://link.springer.com/journal/10584/editorial-board)!
 
