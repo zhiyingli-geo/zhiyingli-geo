@@ -3,7 +3,7 @@ widget: pages
 widget_id: " "
 headless: true
 weight: 70
-title: Working with me
+title: Working with us
 subtitle: null
 content:
   page_type: post
