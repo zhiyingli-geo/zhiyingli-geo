@@ -1,13 +1,17 @@
 ---
-title: Drought Monitoring
+title: Drought Nonstationarity
 date: 2023-04-24T14:08:47.767Z
 draft: false
 featured: true
 tags:
-  - drought monitoring
+  - drought nonstationarity
 links:
+  - url: https://doi.org/10.1029/2023AV001070
+    name: Paper 1
+    icon_pack: fas
+    icon: paper-plane
   - url: https://doi.org/10.1175/JHM-D-22-0054.1
-    name: Paper
+    name: Paper 2
     icon_pack: fas
     icon: paper-plane
 image:
@@ -15,4 +19,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Drought monitoring is critical for managing agriculture and water resources and for triggering state emergency response plans and hazard mitigation activities. Fixed drought thresholds (i.e., using the same threshold in all seasons and climate regions) may not properly reflect local conditions and impacts. Therefore, this study develops impacts-based drought thresholds that are appropriate for drought monitoring in Ohio. We examined four drought indices that are currently used by the State of Ohio: Standardized Precipitation Index (SPI), Standardized Precipitation-Evapotranspiration Index (SPEI), Palmer’s Z-Index and Palmer Hydrological Drought Index (PHDI). Streamflow and corn yield are used as indicators of hydrological and agricultural drought impacts, respectively. Our results show that fixed thresholds tend to indicate milder drought conditions in Ohio, while the proposed impacts-based drought thresholds are more sensitive to exceptional drought (D4) conditions. The area percentage of D4 based on impacts-based drought thresholds is more strongly correlated with corn yield and streamflow. This study provides a methodology for developing local impacts-based drought thresholds that can be applied to other regions where long-term drought impact records exist to provide regionally representative depictions of conditions and improve drought monitoring.
+Drought is often monitored using thresholds that assume stable hydroclimate conditions over time and space. Our work examines how those assumptions can break down under climate variability, climate change, and local differences in drought impacts.
+
+One dimension is **temporal nonstationarity**: long-term shifts in precipitation, evaporative demand, runoff, soil moisture, and terrestrial water storage can change the meaning of historical drought percentiles and classifications. As hydroclimate baselines evolve, drought monitoring systems must distinguish short-term anomalies from emerging climate trends.
+
+Another dimension is **spatial nonstationarity**: the same drought index value or classification can correspond to different impacts across places, seasons, sectors, and water systems. We develop regionally relevant, impacts-based approaches that connect drought indicators with observed consequences such as streamflow deficits and agricultural losses, improving the local interpretability of drought thresholds.
+
+Overall, this theme of research asks how drought monitoring can remain useful in a nonstationary climate, including whether current methods are sensitive to evolving baselines, grounded in local impacts, and informative for risk management and adaptation.
