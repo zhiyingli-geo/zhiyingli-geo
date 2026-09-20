@@ -13,14 +13,14 @@ url_slides: ""
 links:
   - icon: paper-plane
     icon_pack: fas
-    name: Paper1
+    name: Paper 1
     url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021WR029738
   - url: https://www.sciencedirect.com/science/article/abs/pii/S0022169421006697
-    name: Paper2
+    name: Paper 2
     icon_pack: fas
     icon: paper-plane
   - url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022WR033016
-    name: Paper3
+    name: Paper 3
     icon_pack: fas
     icon: paper-plane
 image:
